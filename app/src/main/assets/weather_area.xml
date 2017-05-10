@@ -1,0 +1,3059 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<provinces>
+    <province provincename="北京" provincecode="1">
+        <city cityname="北京" citycode="1">
+            <county countyname="北京" weatherid="CN101010100" />
+            <county countyname="海淀" weatherid="CN101010200" />
+            <county countyname="朝阳" weatherid="CN101010300" />
+            <county countyname="顺义" weatherid="CN101010400" />
+            <county countyname="怀柔" weatherid="CN101010500" />
+            <county countyname="通州" weatherid="CN101010600" />
+            <county countyname="昌平" weatherid="CN101010700" />
+            <county countyname="延庆" weatherid="CN101010800" />
+            <county countyname="丰台" weatherid="CN101010900" />
+            <county countyname="石景山" weatherid="CN101011000" />
+            <county countyname="大兴" weatherid="CN101011100" />
+            <county countyname="房山" weatherid="CN101011200" />
+            <county countyname="密云" weatherid="CN101011300" />
+            <county countyname="门头沟" weatherid="CN101011400" />
+            <county countyname="平谷" weatherid="CN101011500" />
+        </city>
+    </province>
+    <province provincename="上海" provincecode="2">
+        <city cityname="上海" citycode="2">
+            <county countyname="上海" weatherid="CN101020100" />
+            <county countyname="闵行" weatherid="CN101020200" />
+            <county countyname="宝山" weatherid="CN101020300" />
+            <county countyname="嘉定" weatherid="CN101020500" />
+            <county countyname="浦东新区" weatherid="CN101020600" />
+            <county countyname="金山" weatherid="CN101020700" />
+            <county countyname="青浦" weatherid="CN101020800" />
+            <county countyname="松江" weatherid="CN101020900" />
+            <county countyname="奉贤" weatherid="CN101021000" />
+            <county countyname="崇明" weatherid="CN101021100" />
+            <county countyname="徐汇" weatherid="CN101021200" />
+        </city>
+    </province>
+    <province provincename="天津" provincecode="3">
+        <city cityname="天津" citycode="3">
+            <county countyname="天津" weatherid="CN101030100" />
+            <county countyname="武清" weatherid="CN101030200" />
+            <county countyname="宝坻" weatherid="CN101030300" />
+            <county countyname="东丽" weatherid="CN101030400" />
+            <county countyname="西青" weatherid="CN101030500" />
+            <county countyname="北辰" weatherid="CN101030600" />
+            <county countyname="宁河" weatherid="CN101030700" />
+            <county countyname="汉沽" weatherid="CN101030800" />
+            <county countyname="静海" weatherid="CN101030900" />
+            <county countyname="津南" weatherid="CN101031000" />
+            <county countyname="塘沽" weatherid="CN101031100" />
+            <county countyname="大港" weatherid="CN101031200" />
+            <county countyname="蓟县" weatherid="CN101031400" />
+        </city>
+    </province>
+    <province provincename="重庆" provincecode="4">
+        <city cityname="重庆" citycode="4">
+            <county countyname="重庆" weatherid="CN101040100" />
+            <county countyname="永川" weatherid="CN101040200" />
+            <county countyname="合川" weatherid="CN101040300" />
+            <county countyname="南川" weatherid="CN101040400" />
+            <county countyname="江津" weatherid="CN101040500" />
+            <county countyname="万盛" weatherid="CN101040600" />
+            <county countyname="渝北" weatherid="CN101040700" />
+            <county countyname="北碚" weatherid="CN101040800" />
+            <county countyname="巴南" weatherid="CN101040900" />
+            <county countyname="长寿" weatherid="CN101041000" />
+            <county countyname="黔江" weatherid="CN101041100" />
+            <county countyname="万州" weatherid="CN101041300" />
+            <county countyname="涪陵" weatherid="CN101041400" />
+            <county countyname="开县" weatherid="CN101041500" />
+            <county countyname="城口" weatherid="CN101041600" />
+            <county countyname="云阳" weatherid="CN101041700" />
+            <county countyname="巫溪" weatherid="CN101041800" />
+            <county countyname="奉节" weatherid="CN101041900" />
+            <county countyname="巫山" weatherid="CN101042000" />
+            <county countyname="潼南" weatherid="CN101042100" />
+            <county countyname="垫江" weatherid="CN101042200" />
+            <county countyname="梁平" weatherid="CN101042300" />
+            <county countyname="忠县" weatherid="CN101042400" />
+            <county countyname="石柱" weatherid="CN101042500" />
+            <county countyname="大足" weatherid="CN101042600" />
+            <county countyname="荣昌" weatherid="CN101042700" />
+            <county countyname="铜梁" weatherid="CN101042800" />
+            <county countyname="璧山" weatherid="CN101042900" />
+            <county countyname="丰都" weatherid="CN101043000" />
+            <county countyname="武隆" weatherid="CN101043100" />
+            <county countyname="彭水" weatherid="CN101043200" />
+            <county countyname="綦江" weatherid="CN101043300" />
+            <county countyname="酉阳" weatherid="CN101043400" />
+            <county countyname="秀山" weatherid="CN101043600" />
+        </city>
+    </province>
+    <province provincename="香港" provincecode="5">
+        <city cityname="香港" citycode="5">
+            <county countyname="香港" weatherid="CN101320101" />
+            <county countyname="九龙" weatherid="CN101320102" />
+            <county countyname="新界" weatherid="CN101320103" />
+        </city>
+    </province>
+    <province provincename="澳门" provincecode="6">
+        <city cityname="澳门" citycode="6">
+            <county countyname="澳门" weatherid="CN101330101" />
+            <county countyname="氹仔岛" weatherid="CN101330102" />
+            <county countyname="路环岛" weatherid="CN101330103" />
+        </city>
+    </province>
+    <province provincename="台湾" provincecode="7">
+        <city cityname="台北" citycode="7">
+            <county countyname="台北" weatherid="CN101340101" />
+            <county countyname="桃园" weatherid="CN101340102" />
+            <county countyname="新竹" weatherid="CN101340103" />
+            <county countyname="宜兰" weatherid="CN101340104" />
+        </city>
+        <city cityname="高雄" citycode="8">
+            <county countyname="高雄" weatherid="CN101340201" />
+            <county countyname="嘉义" weatherid="CN101340202" />
+            <county countyname="台南" weatherid="CN101340203" />
+            <county countyname="台东" weatherid="CN101340204" />
+            <county countyname="屏东" weatherid="CN101340205" />
+        </city>
+        <city cityname="台中" citycode="9">
+            <county countyname="台中" weatherid="CN101340401" />
+            <county countyname="苗栗" weatherid="CN101340402" />
+            <county countyname="彰化" weatherid="CN101340403" />
+            <county countyname="南投" weatherid="CN101340404" />
+            <county countyname="花莲" weatherid="CN101340405" />
+            <county countyname="云林" weatherid="CN101340406" />
+        </city>
+    </province>
+    <province provincename="黑龙江" provincecode="8">
+        <city cityname="哈尔滨" citycode="10">
+            <county countyname="哈尔滨" weatherid="CN101050101" />
+            <county countyname="双城" weatherid="CN101050102" />
+            <county countyname="呼兰" weatherid="CN101050103" />
+            <county countyname="阿城" weatherid="CN101050104" />
+            <county countyname="宾县" weatherid="CN101050105" />
+            <county countyname="依兰" weatherid="CN101050106" />
+            <county countyname="巴彦" weatherid="CN101050107" />
+            <county countyname="通河" weatherid="CN101050108" />
+            <county countyname="方正" weatherid="CN101050109" />
+            <county countyname="延寿" weatherid="CN101050110" />
+            <county countyname="尚志" weatherid="CN101050111" />
+            <county countyname="五常" weatherid="CN101050112" />
+            <county countyname="木兰" weatherid="CN101050113" />
+        </city>
+        <city cityname="齐齐哈尔" citycode="11">
+            <county countyname="齐齐哈尔" weatherid="CN101050201" />
+            <county countyname="讷河" weatherid="CN101050202" />
+            <county countyname="龙江" weatherid="CN101050203" />
+            <county countyname="甘南" weatherid="CN101050204" />
+            <county countyname="富裕" weatherid="CN101050205" />
+            <county countyname="依安" weatherid="CN101050206" />
+            <county countyname="拜泉" weatherid="CN101050207" />
+            <county countyname="克山" weatherid="CN101050208" />
+            <county countyname="克东" weatherid="CN101050209" />
+            <county countyname="泰来" weatherid="CN101050210" />
+        </city>
+        <city cityname="牡丹江" citycode="12">
+            <county countyname="牡丹江" weatherid="CN101050301" />
+            <county countyname="海林" weatherid="CN101050302" />
+            <county countyname="穆棱" weatherid="CN101050303" />
+            <county countyname="林口" weatherid="CN101050304" />
+            <county countyname="绥芬河" weatherid="CN101050305" />
+            <county countyname="宁安" weatherid="CN101050306" />
+            <county countyname="东宁" weatherid="CN101050307" />
+        </city>
+        <city cityname="佳木斯" citycode="13">
+            <county countyname="佳木斯" weatherid="CN101050401" />
+            <county countyname="汤原" weatherid="CN101050402" />
+            <county countyname="抚远" weatherid="CN101050403" />
+            <county countyname="桦川" weatherid="CN101050404" />
+            <county countyname="桦南" weatherid="CN101050405" />
+            <county countyname="同江" weatherid="CN101050406" />
+            <county countyname="富锦" weatherid="CN101050407" />
+        </city>
+        <city cityname="绥化" citycode="14">
+            <county countyname="绥化" weatherid="CN101050501" />
+            <county countyname="肇东" weatherid="CN101050502" />
+            <county countyname="安达" weatherid="CN101050503" />
+            <county countyname="海伦" weatherid="CN101050504" />
+            <county countyname="明水" weatherid="CN101050505" />
+            <county countyname="望奎" weatherid="CN101050506" />
+            <county countyname="兰西" weatherid="CN101050507" />
+            <county countyname="青冈" weatherid="CN101050508" />
+            <county countyname="庆安" weatherid="CN101050509" />
+            <county countyname="绥棱" weatherid="CN101050510" />
+        </city>
+        <city cityname="黑河" citycode="15">
+            <county countyname="黑河" weatherid="CN101050601" />
+            <county countyname="嫩江" weatherid="CN101050602" />
+            <county countyname="孙吴" weatherid="CN101050603" />
+            <county countyname="逊克" weatherid="CN101050604" />
+            <county countyname="五大连池" weatherid="CN101050605" />
+            <county countyname="北安" weatherid="CN101050606" />
+        </city>
+        <city cityname="大兴安岭" citycode="16">
+            <county countyname="大兴安岭" weatherid="CN101050701" />
+            <county countyname="塔河" weatherid="CN101050702" />
+            <county countyname="漠河" weatherid="CN101050703" />
+            <county countyname="呼玛" weatherid="CN101050704" />
+            <county countyname="呼中" weatherid="CN101050705" />
+            <county countyname="新林" weatherid="CN101050706" />
+            <county countyname="加格达奇" weatherid="CN101050708" />
+        </city>
+        <city cityname="伊春" citycode="17">
+            <county countyname="伊春" weatherid="CN101050801" />
+            <county countyname="乌伊岭" weatherid="CN101050802" />
+            <county countyname="五营" weatherid="CN101050803" />
+            <county countyname="铁力" weatherid="CN101050804" />
+            <county countyname="嘉荫" weatherid="CN101050805" />
+        </city>
+        <city cityname="大庆" citycode="18">
+            <county countyname="大庆" weatherid="CN101050901" />
+            <county countyname="林甸" weatherid="CN101050902" />
+            <county countyname="肇州" weatherid="CN101050903" />
+            <county countyname="肇源" weatherid="CN101050904" />
+            <county countyname="杜尔伯特" weatherid="CN101050905" />
+        </city>
+        <city cityname="鸡西" citycode="19">
+            <county countyname="鸡西" weatherid="CN101051101" />
+            <county countyname="虎林" weatherid="CN101051102" />
+            <county countyname="密山" weatherid="CN101051103" />
+            <county countyname="鸡东" weatherid="CN101051104" />
+        </city>
+        <city cityname="鹤岗" citycode="20" />
+        <city cityname="双鸭山" citycode="21" />
+    </province>
+    <province provincename="吉林" provincecode="9">
+        <city cityname="长春" citycode="22">
+            <county countyname="长春" weatherid="CN101060101" />
+            <county countyname="农安" weatherid="CN101060102" />
+            <county countyname="德惠" weatherid="CN101060103" />
+            <county countyname="九台" weatherid="CN101060104" />
+            <county countyname="榆树" weatherid="CN101060105" />
+            <county countyname="双阳" weatherid="CN101060106" />
+        </city>
+        <city cityname="吉林" citycode="23">
+            <county countyname="吉林" weatherid="CN101060201" />
+            <county countyname="舒兰" weatherid="CN101060202" />
+            <county countyname="永吉" weatherid="CN101060203" />
+            <county countyname="蛟河" weatherid="CN101060204" />
+            <county countyname="磐石" weatherid="CN101060205" />
+            <county countyname="桦甸" weatherid="CN101060206" />
+        </city>
+        <city cityname="延吉" citycode="24">
+            <county countyname="延吉" weatherid="CN101060301" />
+            <county countyname="敦化" weatherid="CN101060302" />
+            <county countyname="安图" weatherid="CN101060303" />
+            <county countyname="汪清" weatherid="CN101060304" />
+            <county countyname="和龙" weatherid="CN101060305" />
+            <county countyname="龙井" weatherid="CN101060307" />
+            <county countyname="珲春" weatherid="CN101060308" />
+            <county countyname="图们" weatherid="CN101060309" />
+        </city>
+        <city cityname="四平" citycode="25">
+            <county countyname="四平" weatherid="CN101060401" />
+            <county countyname="双辽" weatherid="CN101060402" />
+            <county countyname="梨树" weatherid="CN101060403" />
+            <county countyname="公主岭" weatherid="CN101060404" />
+            <county countyname="伊通" weatherid="CN101060405" />
+        </city>
+        <city cityname="通化" citycode="26">
+            <county countyname="通化" weatherid="CN101060501" />
+            <county countyname="梅河" weatherid="CN101060502" />
+            <county countyname="柳河" weatherid="CN101060503" />
+            <county countyname="辉南" weatherid="CN101060504" />
+            <county countyname="集安" weatherid="CN101060505" />
+            <county countyname="通化县" weatherid="CN101060506" />
+        </city>
+        <city cityname="白城" citycode="27">
+            <county countyname="白城" weatherid="CN101060601" />
+            <county countyname="洮南" weatherid="CN101060602" />
+            <county countyname="大安" weatherid="CN101060603" />
+            <county countyname="镇赉" weatherid="CN101060604" />
+            <county countyname="通榆" weatherid="CN101060605" />
+        </city>
+        <city cityname="辽源" citycode="28">
+            <county countyname="辽源" weatherid="CN101060701" />
+            <county countyname="东丰" weatherid="CN101060702" />
+            <county countyname="东辽" weatherid="CN101060703" />
+        </city>
+        <city cityname="松原" citycode="29">
+            <county countyname="松原" weatherid="CN101060801" />
+            <county countyname="乾安" weatherid="CN101060802" />
+            <county countyname="前郭" weatherid="CN101060803" />
+            <county countyname="长岭" weatherid="CN101060804" />
+            <county countyname="扶余" weatherid="CN101060805" />
+        </city>
+        <city cityname="白山" citycode="30">
+            <county countyname="白山" weatherid="CN101060901" />
+            <county countyname="靖宇" weatherid="CN101060902" />
+            <county countyname="临江" weatherid="CN101060903" />
+            <county countyname="东岗" weatherid="CN101060904" />
+            <county countyname="长白" weatherid="CN101060905" />
+            <county countyname="抚松" weatherid="CN101060906" />
+            <county countyname="江源" weatherid="CN101060907" />
+        </city>
+    </province>
+    <province provincename="辽宁" provincecode="10" />
+    <province provincename="内蒙古" provincecode="11">
+        <city cityname="呼和浩特" citycode="45">
+            <county countyname="呼和浩特" weatherid="CN101080101" />
+            <county countyname="土左旗" weatherid="CN101080102" />
+            <county countyname="托县" weatherid="CN101080103" />
+            <county countyname="和林" weatherid="CN101080104" />
+            <county countyname="清水河" weatherid="CN101080105" />
+            <county countyname="呼市郊区" weatherid="CN101080106" />
+            <county countyname="武川" weatherid="CN101080107" />
+        </city>
+        <city cityname="包头" citycode="46">
+            <county countyname="包头" weatherid="CN101080201" />
+            <county countyname="白云鄂博" weatherid="CN101080202" />
+            <county countyname="满都拉 " weatherid="CN101080203" />
+            <county countyname="土右旗" weatherid="CN101080204" />
+            <county countyname="固阳" weatherid="CN101080205" />
+            <county countyname="达茂旗" weatherid="CN101080206" />
+            <county countyname="希拉穆仁" weatherid="CN101080207" />
+        </city>
+        <city cityname="乌海" citycode="47">
+            <county countyname="乌海" weatherid="CN101080301" />
+        </city>
+        <city cityname="集宁" citycode="48">
+            <county countyname="集宁" weatherid="CN101080401" />
+            <county countyname="卓资" weatherid="CN101080402" />
+            <county countyname="化德" weatherid="CN101080403" />
+            <county countyname="商都" weatherid="CN101080404" />
+            <county countyname="兴和" weatherid="CN101080406" />
+            <county countyname="凉城" weatherid="CN101080407" />
+            <county countyname="察右前旗" weatherid="CN101080408" />
+            <county countyname="察右中旗" weatherid="CN101080409" />
+            <county countyname="察右后旗" weatherid="CN101080410" />
+            <county countyname="四子王旗" weatherid="CN101080411" />
+            <county countyname="丰镇" weatherid="CN101080412" />
+        </city>
+        <city cityname="通辽" citycode="49">
+            <county countyname="通辽" weatherid="CN101080501" />
+            <county countyname="舍伯吐" weatherid="CN101080502" />
+            <county countyname="科左中旗" weatherid="CN101080503" />
+            <county countyname="科左后旗" weatherid="CN101080504" />
+            <county countyname="青龙山" weatherid="CN101080505" />
+            <county countyname="开鲁" weatherid="CN101080506" />
+            <county countyname="库伦" weatherid="CN101080507" />
+            <county countyname="奈曼" weatherid="CN101080508" />
+            <county countyname="扎鲁特" weatherid="CN101080509" />
+            <county countyname="巴雅尔吐胡硕" weatherid="CN101080510" />
+            <county countyname="霍林郭勒" weatherid="CN101080511" />
+        </city>
+        <city cityname="赤峰" citycode="50">
+            <county countyname="赤峰" weatherid="CN101080601" />
+            <county countyname="阿鲁旗" weatherid="CN101080603" />
+            <county countyname="浩尔吐" weatherid="CN101080604" />
+            <county countyname="巴林左旗" weatherid="CN101080605" />
+            <county countyname="巴林右旗" weatherid="CN101080606" />
+            <county countyname="林西" weatherid="CN101080607" />
+            <county countyname="克什克腾" weatherid="CN101080608" />
+            <county countyname="翁牛特" weatherid="CN101080609" />
+            <county countyname="岗子" weatherid="CN101080610" />
+            <county countyname="喀喇沁" weatherid="CN101080611" />
+            <county countyname="八里罕" weatherid="CN101080612" />
+            <county countyname="宁城" weatherid="CN101080613" />
+            <county countyname="敖汉" weatherid="CN101080614" />
+            <county countyname="宝国吐" weatherid="CN101080615" />
+        </city>
+        <city cityname="鄂尔多斯" citycode="51">
+            <county countyname="鄂尔多斯" weatherid="CN101080701" />
+            <county countyname="达拉特" weatherid="CN101080703" />
+            <county countyname="准格尔" weatherid="CN101080704" />
+            <county countyname="鄂前旗" weatherid="CN101080705" />
+            <county countyname="河南" weatherid="CN101080706" />
+            <county countyname="伊克乌素" weatherid="CN101080707" />
+            <county countyname="鄂托克" weatherid="CN101080708" />
+            <county countyname="杭锦旗" weatherid="CN101080709" />
+            <county countyname="乌审旗" weatherid="CN101080710" />
+            <county countyname="伊金霍洛" weatherid="CN101080711" />
+            <county countyname="乌审召" weatherid="CN101080712" />
+            <county countyname="东胜" weatherid="CN101080713" />
+        </city>
+        <city cityname="临河" citycode="52" />
+        <city cityname="锡林浩特" citycode="53">
+            <county countyname="锡林浩特" weatherid="CN101080901" />
+            <county countyname="二连浩特" weatherid="CN101080903" />
+            <county countyname="阿巴嘎" weatherid="CN101080904" />
+            <county countyname="苏左旗" weatherid="CN101080906" />
+            <county countyname="苏右旗" weatherid="CN101080907" />
+            <county countyname="朱日和" weatherid="CN101080908" />
+            <county countyname="东乌旗" weatherid="CN101080909" />
+            <county countyname="西乌旗" weatherid="CN101080910" />
+            <county countyname="太仆寺" weatherid="CN101080911" />
+            <county countyname="镶黄旗" weatherid="CN101080912" />
+            <county countyname="正镶白旗" weatherid="CN101080913" />
+            <county countyname="正蓝旗" weatherid="CN101080914" />
+            <county countyname="多伦" weatherid="CN101080915" />
+            <county countyname="博克图" weatherid="CN101080916" />
+            <county countyname="乌拉盖" weatherid="CN101080917" />
+        </city>
+        <city cityname="海拉尔" citycode="54">
+            <county countyname="海拉尔" weatherid="CN101081001" />
+            <county countyname="小二沟" weatherid="CN101081002" />
+            <county countyname="阿荣旗" weatherid="CN101081003" />
+            <county countyname="莫力达瓦" weatherid="CN101081004" />
+            <county countyname="鄂伦春旗" weatherid="CN101081005" />
+            <county countyname="鄂温克旗" weatherid="CN101081006" />
+            <county countyname="陈旗" weatherid="CN101081007" />
+            <county countyname="新左旗" weatherid="CN101081008" />
+            <county countyname="新右旗" weatherid="CN101081009" />
+            <county countyname="满洲里" weatherid="CN101081010" />
+            <county countyname="牙克石" weatherid="CN101081011" />
+            <county countyname="扎兰屯" weatherid="CN101081012" />
+            <county countyname="额尔古纳" weatherid="CN101081014" />
+            <county countyname="根河" weatherid="CN101081015" />
+            <county countyname="图里河" weatherid="CN101081016" />
+        </city>
+        <city cityname="乌兰浩特" citycode="55">
+            <county countyname="乌兰浩特" weatherid="CN101081101" />
+            <county countyname="高力板" weatherid="CN101081102" />
+            <county countyname="阿尔山" weatherid="CN101081103" />
+            <county countyname="科右中旗" weatherid="CN101081104" />
+            <county countyname="胡尔勒" weatherid="CN101081105" />
+            <county countyname="扎赉特" weatherid="CN101081106" />
+            <county countyname="索伦" weatherid="CN101081107" />
+            <county countyname="突泉" weatherid="CN101081108" />
+            <county countyname="科右前旗" weatherid="CN101081109" />
+        </city>
+        <city cityname="阿左旗" citycode="56">
+            <county countyname="阿左旗" weatherid="CN101081201" />
+            <county countyname="阿右旗" weatherid="CN101081202" />
+            <county countyname="额济纳" weatherid="CN101081203" />
+            <county countyname="拐子湖" weatherid="CN101081204" />
+            <county countyname="吉兰太" weatherid="CN101081205" />
+            <county countyname="锡林高勒" weatherid="CN101081206" />
+            <county countyname="头道湖" weatherid="CN101081207" />
+            <county countyname="中泉子" weatherid="CN101081208" />
+            <county countyname="诺尔公" weatherid="CN101081209" />
+            <county countyname="雅布赖" weatherid="CN101081210" />
+            <county countyname="乌斯泰" weatherid="CN101081211" />
+            <county countyname="孪井滩" weatherid="CN101081212" />
+        </city>
+    </province>
+    <province provincename="河北" provincecode="12">
+        <city cityname="石家庄" citycode="57">
+            <county countyname="石家庄" weatherid="CN101090101" />
+            <county countyname="井陉" weatherid="CN101090102" />
+            <county countyname="正定" weatherid="CN101090103" />
+            <county countyname="栾城" weatherid="CN101090104" />
+            <county countyname="行唐" weatherid="CN101090105" />
+            <county countyname="灵寿" weatherid="CN101090106" />
+            <county countyname="高邑" weatherid="CN101090107" />
+            <county countyname="深泽" weatherid="CN101090108" />
+            <county countyname="赞皇" weatherid="CN101090109" />
+            <county countyname="无极" weatherid="CN101090110" />
+            <county countyname="平山" weatherid="CN101090111" />
+            <county countyname="元氏" weatherid="CN101090112" />
+            <county countyname="赵县" weatherid="CN101090113" />
+            <county countyname="辛集" weatherid="CN101090114" />
+            <county countyname="藁城" weatherid="CN101090115" />
+            <county countyname="晋州" weatherid="CN101090116" />
+            <county countyname="新乐" weatherid="CN101090117" />
+            <county countyname="鹿泉" weatherid="CN101090118" />
+        </city>
+        <city cityname="保定" citycode="58">
+            <county countyname="保定" weatherid="CN101090201" />
+            <county countyname="满城" weatherid="CN101090202" />
+            <county countyname="阜平" weatherid="CN101090203" />
+            <county countyname="徐水" weatherid="CN101090204" />
+            <county countyname="唐县" weatherid="CN101090205" />
+            <county countyname="高阳" weatherid="CN101090206" />
+            <county countyname="容城" weatherid="CN101090207" />
+            <county countyname="涞源" weatherid="CN101090209" />
+            <county countyname="望都" weatherid="CN101090210" />
+            <county countyname="安新" weatherid="CN101090211" />
+            <county countyname="易县" weatherid="CN101090212" />
+            <county countyname="曲阳" weatherid="CN101090214" />
+            <county countyname="蠡县" weatherid="CN101090215" />
+            <county countyname="顺平" weatherid="CN101090216" />
+            <county countyname="雄县" weatherid="CN101090217" />
+            <county countyname="涿州" weatherid="CN101090218" />
+            <county countyname="定州" weatherid="CN101090219" />
+            <county countyname="安国" weatherid="CN101090220" />
+            <county countyname="高碑店" weatherid="CN101090221" />
+            <county countyname="涞水" weatherid="CN101090222" />
+            <county countyname="定兴" weatherid="CN101090223" />
+            <county countyname="清苑" weatherid="CN101090224" />
+            <county countyname="博野" weatherid="CN101090225" />
+        </city>
+        <city cityname="张家口" citycode="59">
+            <county countyname="张家口" weatherid="CN101090301" />
+            <county countyname="宣化" weatherid="CN101090302" />
+            <county countyname="张北" weatherid="CN101090303" />
+            <county countyname="康保" weatherid="CN101090304" />
+            <county countyname="沽源" weatherid="CN101090305" />
+            <county countyname="尚义" weatherid="CN101090306" />
+            <county countyname="蔚县" weatherid="CN101090307" />
+            <county countyname="阳原" weatherid="CN101090308" />
+            <county countyname="怀安" weatherid="CN101090309" />
+            <county countyname="万全" weatherid="CN101090310" />
+            <county countyname="怀来" weatherid="CN101090311" />
+            <county countyname="涿鹿" weatherid="CN101090312" />
+            <county countyname="赤城" weatherid="CN101090313" />
+            <county countyname="崇礼" weatherid="CN101090314" />
+        </city>
+        <city cityname="唐山" citycode="60">
+            <county countyname="唐山" weatherid="CN101090501" />
+            <county countyname="丰南" weatherid="CN101090502" />
+            <county countyname="丰润" weatherid="CN101090503" />
+            <county countyname="滦县" weatherid="CN101090504" />
+            <county countyname="滦南" weatherid="CN101090505" />
+            <county countyname="乐亭" weatherid="CN101090506" />
+            <county countyname="迁西" weatherid="CN101090507" />
+            <county countyname="玉田" weatherid="CN101090508" />
+            <county countyname="唐海" weatherid="CN101090509" />
+            <county countyname="遵化" weatherid="CN101090510" />
+            <county countyname="迁安" weatherid="CN101090511" />
+            <county countyname="曹妃甸" weatherid="CN101090512" />
+        </city>
+        <city cityname="廊坊" citycode="61">
+            <county countyname="廊坊" weatherid="CN101090601" />
+            <county countyname="固安" weatherid="CN101090602" />
+            <county countyname="永清" weatherid="CN101090603" />
+            <county countyname="香河" weatherid="CN101090604" />
+            <county countyname="大城" weatherid="CN101090605" />
+            <county countyname="文安" weatherid="CN101090606" />
+            <county countyname="大厂" weatherid="CN101090607" />
+            <county countyname="霸州" weatherid="CN101090608" />
+            <county countyname="三河" weatherid="CN101090609" />
+        </city>
+        <city cityname="沧州" citycode="62">
+            <county countyname="沧州" weatherid="CN101090701" />
+            <county countyname="青县" weatherid="CN101090702" />
+            <county countyname="东光" weatherid="CN101090703" />
+            <county countyname="海兴" weatherid="CN101090704" />
+            <county countyname="盐山" weatherid="CN101090705" />
+            <county countyname="肃宁" weatherid="CN101090706" />
+            <county countyname="南皮" weatherid="CN101090707" />
+            <county countyname="吴桥" weatherid="CN101090708" />
+            <county countyname="献县" weatherid="CN101090709" />
+            <county countyname="孟村" weatherid="CN101090710" />
+            <county countyname="泊头" weatherid="CN101090711" />
+            <county countyname="任丘" weatherid="CN101090712" />
+            <county countyname="黄骅" weatherid="CN101090713" />
+            <county countyname="河间" weatherid="CN101090714" />
+            <county countyname="沧县" weatherid="CN101090716" />
+        </city>
+        <city cityname="衡水" citycode="63">
+            <county countyname="衡水" weatherid="CN101090801" />
+            <county countyname="枣强" weatherid="CN101090802" />
+            <county countyname="武邑" weatherid="CN101090803" />
+            <county countyname="武强" weatherid="CN101090804" />
+            <county countyname="饶阳" weatherid="CN101090805" />
+            <county countyname="安平" weatherid="CN101090806" />
+            <county countyname="故城" weatherid="CN101090807" />
+            <county countyname="景县" weatherid="CN101090808" />
+            <county countyname="阜城" weatherid="CN101090809" />
+            <county countyname="冀州" weatherid="CN101090810" />
+            <county countyname="深州" weatherid="CN101090811" />
+        </city>
+        <city cityname="邢台" citycode="64">
+            <county countyname="邢台" weatherid="CN101090901" />
+            <county countyname="临城" weatherid="CN101090902" />
+            <county countyname="内丘" weatherid="CN101090904" />
+            <county countyname="柏乡" weatherid="CN101090905" />
+            <county countyname="隆尧" weatherid="CN101090906" />
+            <county countyname="南和" weatherid="CN101090907" />
+            <county countyname="宁晋" weatherid="CN101090908" />
+            <county countyname="巨鹿" weatherid="CN101090909" />
+            <county countyname="新河" weatherid="CN101090910" />
+            <county countyname="广宗" weatherid="CN101090911" />
+            <county countyname="平乡" weatherid="CN101090912" />
+            <county countyname="威县" weatherid="CN101090913" />
+            <county countyname="清河" weatherid="CN101090914" />
+            <county countyname="临西" weatherid="CN101090915" />
+            <county countyname="南宫" weatherid="CN101090916" />
+            <county countyname="沙河" weatherid="CN101090917" />
+            <county countyname="任县" weatherid="CN101090918" />
+        </city>
+        <city cityname="邯郸" citycode="65">
+            <county countyname="邯郸" weatherid="CN101091001" />
+            <county countyname="峰峰" weatherid="CN101091002" />
+            <county countyname="临漳" weatherid="CN101091003" />
+            <county countyname="成安" weatherid="CN101091004" />
+            <county countyname="大名" weatherid="CN101091005" />
+            <county countyname="涉县" weatherid="CN101091006" />
+            <county countyname="磁县" weatherid="CN101091007" />
+            <county countyname="肥乡" weatherid="CN101091008" />
+            <county countyname="永年" weatherid="CN101091009" />
+            <county countyname="邱县" weatherid="CN101091010" />
+            <county countyname="鸡泽" weatherid="CN101091011" />
+            <county countyname="广平" weatherid="CN101091012" />
+            <county countyname="馆陶" weatherid="CN101091013" />
+            <county countyname="魏县" weatherid="CN101091014" />
+            <county countyname="曲周" weatherid="CN101091015" />
+            <county countyname="武安" weatherid="CN101091016" />
+        </city>
+        <city cityname="秦皇岛" citycode="66">
+            <county countyname="秦皇岛" weatherid="CN101091101" />
+            <county countyname="青龙" weatherid="CN101091102" />
+            <county countyname="昌黎" weatherid="CN101091103" />
+            <county countyname="抚宁" weatherid="CN101091104" />
+            <county countyname="卢龙" weatherid="CN101091105" />
+            <county countyname="北戴河" weatherid="CN101091106" />
+        </city>
+    </province>
+    <province provincename="河南" provincecode="13">
+        <city cityname="郑州" citycode="67">
+            <county countyname="郑州" weatherid="CN101180101" />
+            <county countyname="巩义" weatherid="CN101180102" />
+            <county countyname="荥阳" weatherid="CN101180103" />
+            <county countyname="登封" weatherid="CN101180104" />
+            <county countyname="新密" weatherid="CN101180105" />
+            <county countyname="新郑" weatherid="CN101180106" />
+            <county countyname="中牟" weatherid="CN101180107" />
+            <county countyname="上街" weatherid="CN101180108" />
+        </city>
+        <city cityname="安阳" citycode="68">
+            <county countyname="安阳" weatherid="CN101180201" />
+            <county countyname="汤阴" weatherid="CN101180202" />
+            <county countyname="滑县" weatherid="CN101180203" />
+            <county countyname="内黄" weatherid="CN101180204" />
+            <county countyname="林州" weatherid="CN101180205" />
+        </city>
+        <city cityname="新乡" citycode="69" />
+        <city cityname="许昌" citycode="70">
+            <county countyname="许昌" weatherid="CN101180401" />
+            <county countyname="鄢陵" weatherid="CN101180402" />
+            <county countyname="襄城" weatherid="CN101180403" />
+            <county countyname="长葛" weatherid="CN101180404" />
+            <county countyname="禹州" weatherid="CN101180405" />
+        </city>
+        <city cityname="平顶山" citycode="71">
+            <county countyname="平顶山" weatherid="CN101180501" />
+            <county countyname="郏县" weatherid="CN101180502" />
+            <county countyname="宝丰" weatherid="CN101180503" />
+            <county countyname="汝州" weatherid="CN101180504" />
+            <county countyname="叶县" weatherid="CN101180505" />
+            <county countyname="舞钢" weatherid="CN101180506" />
+            <county countyname="鲁山" weatherid="CN101180507" />
+            <county countyname="石龙" weatherid="CN101180508" />
+        </city>
+        <city cityname="信阳" citycode="72">
+            <county countyname="信阳" weatherid="CN101180601" />
+            <county countyname="息县" weatherid="CN101180602" />
+            <county countyname="罗山" weatherid="CN101180603" />
+            <county countyname="光山" weatherid="CN101180604" />
+            <county countyname="新县" weatherid="CN101180605" />
+            <county countyname="淮滨" weatherid="CN101180606" />
+            <county countyname="潢川" weatherid="CN101180607" />
+            <county countyname="固始" weatherid="CN101180608" />
+            <county countyname="商城" weatherid="CN101180609" />
+        </city>
+        <city cityname="南阳" citycode="73">
+            <county countyname="南阳" weatherid="CN101180701" />
+            <county countyname="南召" weatherid="CN101180702" />
+            <county countyname="方城" weatherid="CN101180703" />
+            <county countyname="社旗" weatherid="CN101180704" />
+            <county countyname="西峡" weatherid="CN101180705" />
+            <county countyname="内乡" weatherid="CN101180706" />
+            <county countyname="镇平" weatherid="CN101180707" />
+            <county countyname="淅川" weatherid="CN101180708" />
+            <county countyname="新野" weatherid="CN101180709" />
+            <county countyname="唐河" weatherid="CN101180710" />
+            <county countyname="邓州" weatherid="CN101180711" />
+            <county countyname="桐柏" weatherid="CN101180712" />
+        </city>
+        <city cityname="开封" citycode="74">
+            <county countyname="开封" weatherid="CN101180801" />
+            <county countyname="杞县" weatherid="CN101180802" />
+            <county countyname="尉氏" weatherid="CN101180803" />
+            <county countyname="通许" weatherid="CN101180804" />
+            <county countyname="兰考" weatherid="CN101180805" />
+        </city>
+        <city cityname="洛阳" citycode="75">
+            <county countyname="洛阳" weatherid="CN101180901" />
+            <county countyname="新安" weatherid="CN101180902" />
+            <county countyname="孟津" weatherid="CN101180903" />
+            <county countyname="宜阳" weatherid="CN101180904" />
+            <county countyname="洛宁" weatherid="CN101180905" />
+            <county countyname="伊川" weatherid="CN101180906" />
+            <county countyname="嵩县" weatherid="CN101180907" />
+            <county countyname="偃师" weatherid="CN101180908" />
+            <county countyname="栾川" weatherid="CN101180909" />
+            <county countyname="汝阳" weatherid="CN101180910" />
+            <county countyname="吉利" weatherid="CN101180911" />
+        </city>
+        <city cityname="商丘" citycode="76">
+            <county countyname="商丘" weatherid="CN101181001" />
+            <county countyname="睢县" weatherid="CN101181003" />
+            <county countyname="民权" weatherid="CN101181004" />
+            <county countyname="虞城" weatherid="CN101181005" />
+            <county countyname="柘城" weatherid="CN101181006" />
+            <county countyname="宁陵" weatherid="CN101181007" />
+            <county countyname="夏邑" weatherid="CN101181008" />
+            <county countyname="永城" weatherid="CN101181009" />
+        </city>
+        <city cityname="焦作" citycode="77">
+            <county countyname="焦作" weatherid="CN101181101" />
+            <county countyname="修武" weatherid="CN101181102" />
+            <county countyname="武陟" weatherid="CN101181103" />
+            <county countyname="沁阳" weatherid="CN101181104" />
+            <county countyname="博爱" weatherid="CN101181106" />
+            <county countyname="温县" weatherid="CN101181107" />
+            <county countyname="孟州" weatherid="CN101181108" />
+        </city>
+        <city cityname="鹤壁" citycode="78">
+            <county countyname="鹤壁" weatherid="CN101181201" />
+            <county countyname="浚县" weatherid="CN101181202" />
+            <county countyname="淇县" weatherid="CN101181203" />
+        </city>
+        <city cityname="濮阳" citycode="79">
+            <county countyname="濮阳" weatherid="CN101181301" />
+            <county countyname="台前" weatherid="CN101181302" />
+            <county countyname="南乐" weatherid="CN101181303" />
+            <county countyname="清丰" weatherid="CN101181304" />
+            <county countyname="范县" weatherid="CN101181305" />
+        </city>
+        <city cityname="周口" citycode="80">
+            <county countyname="周口" weatherid="CN101181401" />
+            <county countyname="扶沟" weatherid="CN101181402" />
+            <county countyname="太康" weatherid="CN101181403" />
+            <county countyname="淮阳" weatherid="CN101181404" />
+            <county countyname="西华" weatherid="CN101181405" />
+            <county countyname="商水" weatherid="CN101181406" />
+            <county countyname="项城" weatherid="CN101181407" />
+            <county countyname="郸城" weatherid="CN101181408" />
+            <county countyname="鹿邑" weatherid="CN101181409" />
+            <county countyname="沈丘" weatherid="CN101181410" />
+        </city>
+        <city cityname="漯河" citycode="81">
+            <county countyname="漯河" weatherid="CN101181501" />
+            <county countyname="临颍" weatherid="CN101181502" />
+            <county countyname="舞阳" weatherid="CN101181503" />
+        </city>
+        <city cityname="驻马店" citycode="82">
+            <county countyname="驻马店" weatherid="CN101181601" />
+            <county countyname="西平" weatherid="CN101181602" />
+            <county countyname="遂平" weatherid="CN101181603" />
+            <county countyname="上蔡" weatherid="CN101181604" />
+            <county countyname="汝南" weatherid="CN101181605" />
+            <county countyname="泌阳" weatherid="CN101181606" />
+            <county countyname="平舆" weatherid="CN101181607" />
+            <county countyname="新蔡" weatherid="CN101181608" />
+            <county countyname="确山" weatherid="CN101181609" />
+            <county countyname="正阳" weatherid="CN101181610" />
+        </city>
+        <city cityname="三门峡" citycode="83">
+            <county countyname="三门峡" weatherid="CN101181701" />
+            <county countyname="灵宝" weatherid="CN101181702" />
+            <county countyname="渑池" weatherid="CN101181703" />
+            <county countyname="卢氏" weatherid="CN101181704" />
+            <county countyname="义马" weatherid="CN101181705" />
+            <county countyname="陕县" weatherid="CN101181706" />
+        </city>
+        <city cityname="济源" citycode="84">
+            <county countyname="济源" weatherid="CN101181801" />
+        </city>
+    </province>
+    <province provincename="山西" provincecode="14">
+        <city cityname="太原" citycode="85">
+            <county countyname="太原" weatherid="CN101100101" />
+            <county countyname="清徐" weatherid="CN101100102" />
+            <county countyname="阳曲" weatherid="CN101100103" />
+            <county countyname="娄烦" weatherid="CN101100104" />
+            <county countyname="古交" weatherid="CN101100105" />
+            <county countyname="尖草坪区" weatherid="CN101100106" />
+            <county countyname="小店区" weatherid="CN101100107" />
+        </city>
+        <city cityname="大同" citycode="86">
+            <county countyname="大同" weatherid="CN101100201" />
+            <county countyname="阳高" weatherid="CN101100202" />
+            <county countyname="大同县" weatherid="CN101100203" />
+            <county countyname="天镇" weatherid="CN101100204" />
+            <county countyname="广灵" weatherid="CN101100205" />
+            <county countyname="灵丘" weatherid="CN101100206" />
+            <county countyname="浑源" weatherid="CN101100207" />
+            <county countyname="左云" weatherid="CN101100208" />
+        </city>
+        <city cityname="阳泉" citycode="87">
+            <county countyname="阳泉" weatherid="CN101100301" />
+            <county countyname="盂县" weatherid="CN101100302" />
+            <county countyname="平定" weatherid="CN101100303" />
+        </city>
+        <city cityname="晋中" citycode="88">
+            <county countyname="晋中" weatherid="CN101100401" />
+            <county countyname="榆次" weatherid="CN101100402" />
+            <county countyname="榆社" weatherid="CN101100403" />
+            <county countyname="左权" weatherid="CN101100404" />
+            <county countyname="和顺" weatherid="CN101100405" />
+            <county countyname="昔阳" weatherid="CN101100406" />
+            <county countyname="寿阳" weatherid="CN101100407" />
+            <county countyname="太谷" weatherid="CN101100408" />
+            <county countyname="祁县" weatherid="CN101100409" />
+            <county countyname="平遥" weatherid="CN101100410" />
+            <county countyname="灵石" weatherid="CN101100411" />
+            <county countyname="介休" weatherid="CN101100412" />
+        </city>
+        <city cityname="长治" citycode="89">
+            <county countyname="长治" weatherid="CN101100501" />
+            <county countyname="黎城" weatherid="CN101100502" />
+            <county countyname="屯留" weatherid="CN101100503" />
+            <county countyname="潞城" weatherid="CN101100504" />
+            <county countyname="襄垣" weatherid="CN101100505" />
+            <county countyname="平顺" weatherid="CN101100506" />
+            <county countyname="武乡" weatherid="CN101100507" />
+            <county countyname="沁县" weatherid="CN101100508" />
+            <county countyname="长子" weatherid="CN101100509" />
+            <county countyname="沁源" weatherid="CN101100510" />
+            <county countyname="壶关" weatherid="CN101100511" />
+        </city>
+        <city cityname="晋城" citycode="90">
+            <county countyname="晋城" weatherid="CN101100601" />
+            <county countyname="沁水" weatherid="CN101100602" />
+            <county countyname="阳城" weatherid="CN101100603" />
+            <county countyname="陵川" weatherid="CN101100604" />
+            <county countyname="高平" weatherid="CN101100605" />
+            <county countyname="泽州" weatherid="CN101100606" />
+        </city>
+        <city cityname="临汾" citycode="91">
+            <county countyname="临汾" weatherid="CN101100701" />
+            <county countyname="曲沃" weatherid="CN101100702" />
+            <county countyname="永和" weatherid="CN101100703" />
+            <county countyname="隰县" weatherid="CN101100704" />
+            <county countyname="大宁" weatherid="CN101100705" />
+            <county countyname="吉县" weatherid="CN101100706" />
+            <county countyname="襄汾" weatherid="CN101100707" />
+            <county countyname="蒲县" weatherid="CN101100708" />
+            <county countyname="汾西" weatherid="CN101100709" />
+            <county countyname="洪洞" weatherid="CN101100710" />
+            <county countyname="霍州" weatherid="CN101100711" />
+            <county countyname="乡宁" weatherid="CN101100712" />
+            <county countyname="翼城" weatherid="CN101100713" />
+            <county countyname="侯马" weatherid="CN101100714" />
+            <county countyname="浮山" weatherid="CN101100715" />
+            <county countyname="安泽" weatherid="CN101100716" />
+            <county countyname="古县" weatherid="CN101100717" />
+        </city>
+        <city cityname="运城" citycode="92">
+            <county countyname="运城" weatherid="CN101100801" />
+            <county countyname="临猗" weatherid="CN101100802" />
+            <county countyname="稷山" weatherid="CN101100803" />
+            <county countyname="万荣" weatherid="CN101100804" />
+            <county countyname="河津" weatherid="CN101100805" />
+            <county countyname="新绛" weatherid="CN101100806" />
+            <county countyname="绛县" weatherid="CN101100807" />
+            <county countyname="闻喜" weatherid="CN101100808" />
+            <county countyname="垣曲" weatherid="CN101100809" />
+            <county countyname="永济" weatherid="CN101100810" />
+            <county countyname="芮城" weatherid="CN101100811" />
+            <county countyname="夏县" weatherid="CN101100812" />
+            <county countyname="平陆" weatherid="CN101100813" />
+        </city>
+        <city cityname="朔州" citycode="93">
+            <county countyname="朔州" weatherid="CN101100901" />
+            <county countyname="平鲁" weatherid="CN101100902" />
+            <county countyname="山阴" weatherid="CN101100903" />
+            <county countyname="右玉" weatherid="CN101100904" />
+            <county countyname="应县" weatherid="CN101100905" />
+            <county countyname="怀仁" weatherid="CN101100906" />
+        </city>
+        <city cityname="忻州" citycode="94">
+            <county countyname="忻州" weatherid="CN101101001" />
+            <county countyname="定襄" weatherid="CN101101002" />
+            <county countyname="五台县" weatherid="CN101101003" />
+            <county countyname="河曲" weatherid="CN101101004" />
+            <county countyname="偏关" weatherid="CN101101005" />
+            <county countyname="神池" weatherid="CN101101006" />
+            <county countyname="宁武" weatherid="CN101101007" />
+            <county countyname="代县" weatherid="CN101101008" />
+            <county countyname="繁峙" weatherid="CN101101009" />
+            <county countyname="五台山" weatherid="CN101101010" />
+            <county countyname="保德" weatherid="CN101101011" />
+            <county countyname="静乐" weatherid="CN101101012" />
+            <county countyname="岢岚" weatherid="CN101101013" />
+            <county countyname="五寨" weatherid="CN101101014" />
+            <county countyname="原平" weatherid="CN101101015" />
+        </city>
+        <city cityname="离石" citycode="95">
+            <county countyname="离石" weatherid="CN101101101" />
+            <county countyname="临县" weatherid="CN101101102" />
+            <county countyname="兴县" weatherid="CN101101103" />
+            <county countyname="岚县" weatherid="CN101101104" />
+            <county countyname="柳林" weatherid="CN101101105" />
+            <county countyname="石楼" weatherid="CN101101106" />
+            <county countyname="方山" weatherid="CN101101107" />
+            <county countyname="交口" weatherid="CN101101108" />
+            <county countyname="中阳" weatherid="CN101101109" />
+            <county countyname="孝义" weatherid="CN101101110" />
+            <county countyname="汾阳" weatherid="CN101101111" />
+            <county countyname="文水" weatherid="CN101101112" />
+            <county countyname="交城" weatherid="CN101101113" />
+        </city>
+    </province>
+    <province provincename="山东" provincecode="15">
+        <city cityname="济南" citycode="96">
+            <county countyname="济南" weatherid="CN101120101" />
+            <county countyname="长清" weatherid="CN101120102" />
+            <county countyname="商河" weatherid="CN101120103" />
+            <county countyname="章丘" weatherid="CN101120104" />
+            <county countyname="平阴" weatherid="CN101120105" />
+            <county countyname="济阳" weatherid="CN101120106" />
+        </city>
+        <city cityname="青岛" citycode="97">
+            <county countyname="青岛" weatherid="CN101120201" />
+            <county countyname="崂山" weatherid="CN101120202" />
+            <county countyname="即墨" weatherid="CN101120204" />
+            <county countyname="胶州" weatherid="CN101120205" />
+            <county countyname="黄岛" weatherid="CN101120206" />
+            <county countyname="莱西" weatherid="CN101120207" />
+            <county countyname="平度" weatherid="CN101120208" />
+        </city>
+        <city cityname="淄博" citycode="98">
+            <county countyname="淄博" weatherid="CN101120301" />
+            <county countyname="淄川" weatherid="CN101120302" />
+            <county countyname="博山" weatherid="CN101120303" />
+            <county countyname="高青" weatherid="CN101120304" />
+            <county countyname="周村" weatherid="CN101120305" />
+            <county countyname="沂源" weatherid="CN101120306" />
+            <county countyname="桓台" weatherid="CN101120307" />
+            <county countyname="临淄" weatherid="CN101120308" />
+        </city>
+        <city cityname="德州" citycode="99">
+            <county countyname="德州" weatherid="CN101120401" />
+            <county countyname="武城" weatherid="CN101120402" />
+            <county countyname="临邑" weatherid="CN101120403" />
+            <county countyname="陵县" weatherid="CN101120404" />
+            <county countyname="齐河" weatherid="CN101120405" />
+            <county countyname="乐陵" weatherid="CN101120406" />
+            <county countyname="庆云" weatherid="CN101120407" />
+            <county countyname="平原" weatherid="CN101120408" />
+            <county countyname="宁津" weatherid="CN101120409" />
+            <county countyname="夏津" weatherid="CN101120410" />
+            <county countyname="禹城" weatherid="CN101120411" />
+        </city>
+        <city cityname="烟台" citycode="100">
+            <county countyname="烟台" weatherid="CN101120501" />
+            <county countyname="莱州" weatherid="CN101120502" />
+            <county countyname="长岛" weatherid="CN101120503" />
+            <county countyname="蓬莱" weatherid="CN101120504" />
+            <county countyname="龙口" weatherid="CN101120505" />
+            <county countyname="招远" weatherid="CN101120506" />
+            <county countyname="栖霞" weatherid="CN101120507" />
+            <county countyname="福山" weatherid="CN101120508" />
+            <county countyname="牟平" weatherid="CN101120509" />
+            <county countyname="莱阳" weatherid="CN101120510" />
+            <county countyname="海阳" weatherid="CN101120511" />
+        </city>
+        <city cityname="潍坊" citycode="101">
+            <county countyname="潍坊" weatherid="CN101120601" />
+            <county countyname="青州" weatherid="CN101120602" />
+            <county countyname="寿光" weatherid="CN101120603" />
+            <county countyname="临朐" weatherid="CN101120604" />
+            <county countyname="昌乐" weatherid="CN101120605" />
+            <county countyname="昌邑" weatherid="CN101120606" />
+            <county countyname="安丘" weatherid="CN101120607" />
+            <county countyname="高密" weatherid="CN101120608" />
+            <county countyname="诸城" weatherid="CN101120609" />
+        </city>
+        <city cityname="济宁" citycode="102">
+            <county countyname="济宁" weatherid="CN101120701" />
+            <county countyname="嘉祥" weatherid="CN101120702" />
+            <county countyname="微山" weatherid="CN101120703" />
+            <county countyname="鱼台" weatherid="CN101120704" />
+            <county countyname="兖州" weatherid="CN101120705" />
+            <county countyname="金乡" weatherid="CN101120706" />
+            <county countyname="汶上" weatherid="CN101120707" />
+            <county countyname="泗水" weatherid="CN101120708" />
+            <county countyname="梁山" weatherid="CN101120709" />
+            <county countyname="曲阜" weatherid="CN101120710" />
+            <county countyname="邹城" weatherid="CN101120711" />
+        </city>
+        <city cityname="泰安" citycode="103">
+            <county countyname="泰安" weatherid="CN101120801" />
+            <county countyname="新泰" weatherid="CN101120802" />
+            <county countyname="肥城" weatherid="CN101120804" />
+            <county countyname="东平" weatherid="CN101120805" />
+            <county countyname="宁阳" weatherid="CN101120806" />
+        </city>
+        <city cityname="临沂" citycode="104">
+            <county countyname="临沂" weatherid="CN101120901" />
+            <county countyname="莒南" weatherid="CN101120902" />
+            <county countyname="沂南" weatherid="CN101120903" />
+            <county countyname="兰陵" weatherid="CN101120904" />
+            <county countyname="临沭" weatherid="CN101120905" />
+            <county countyname="郯城" weatherid="CN101120906" />
+            <county countyname="蒙阴" weatherid="CN101120907" />
+            <county countyname="平邑" weatherid="CN101120908" />
+            <county countyname="费县" weatherid="CN101120909" />
+            <county countyname="沂水" weatherid="CN101120910" />
+        </city>
+        <city cityname="菏泽" citycode="105">
+            <county countyname="菏泽" weatherid="CN101121001" />
+            <county countyname="鄄城" weatherid="CN101121002" />
+            <county countyname="郓城" weatherid="CN101121003" />
+            <county countyname="东明" weatherid="CN101121004" />
+            <county countyname="定陶" weatherid="CN101121005" />
+            <county countyname="巨野" weatherid="CN101121006" />
+            <county countyname="曹县" weatherid="CN101121007" />
+            <county countyname="成武" weatherid="CN101121008" />
+            <county countyname="单县" weatherid="CN101121009" />
+        </city>
+        <city cityname="滨州" citycode="106">
+            <county countyname="滨州" weatherid="CN101121101" />
+            <county countyname="博兴" weatherid="CN101121102" />
+            <county countyname="无棣" weatherid="CN101121103" />
+            <county countyname="阳信" weatherid="CN101121104" />
+            <county countyname="惠民" weatherid="CN101121105" />
+            <county countyname="沾化" weatherid="CN101121106" />
+            <county countyname="邹平" weatherid="CN101121107" />
+        </city>
+        <city cityname="东营" citycode="107">
+            <county countyname="东营" weatherid="CN101121201" />
+            <county countyname="河口" weatherid="CN101121202" />
+            <county countyname="垦利" weatherid="CN101121203" />
+            <county countyname="利津" weatherid="CN101121204" />
+            <county countyname="广饶" weatherid="CN101121205" />
+        </city>
+        <city cityname="威海" citycode="108">
+            <county countyname="威海" weatherid="CN101121301" />
+            <county countyname="文登" weatherid="CN101121302" />
+            <county countyname="荣成" weatherid="CN101121303" />
+            <county countyname="乳山" weatherid="CN101121304" />
+            <county countyname="成山头" weatherid="CN101121305" />
+            <county countyname="石岛" weatherid="CN101121306" />
+        </city>
+        <city cityname="枣庄" citycode="109">
+            <county countyname="枣庄" weatherid="CN101121401" />
+            <county countyname="薛城" weatherid="CN101121402" />
+            <county countyname="峄城" weatherid="CN101121403" />
+            <county countyname="台儿庄" weatherid="CN101121404" />
+            <county countyname="滕州" weatherid="CN101121405" />
+        </city>
+        <city cityname="日照" citycode="110">
+            <county countyname="日照" weatherid="CN101121501" />
+            <county countyname="五莲" weatherid="CN101121502" />
+            <county countyname="莒县" weatherid="CN101121503" />
+        </city>
+        <city cityname="莱芜" citycode="111">
+            <county countyname="莱芜" weatherid="CN101121601" />
+        </city>
+        <city cityname="聊城" citycode="112">
+            <county countyname="聊城" weatherid="CN101121701" />
+            <county countyname="冠县" weatherid="CN101121702" />
+            <county countyname="阳谷" weatherid="CN101121703" />
+            <county countyname="高唐" weatherid="CN101121704" />
+            <county countyname="茌平" weatherid="CN101121705" />
+            <county countyname="东阿" weatherid="CN101121706" />
+            <county countyname="临清" weatherid="CN101121707" />
+            <county countyname="莘县" weatherid="CN101121709" />
+        </city>
+    </province>
+    <province provincename="江苏" provincecode="16">
+        <city cityname="南京" citycode="113">
+            <county countyname="南京" weatherid="CN101190101" />
+            <county countyname="溧水" weatherid="CN101190102" />
+            <county countyname="高淳" weatherid="CN101190103" />
+            <county countyname="江宁" weatherid="CN101190104" />
+            <county countyname="六合" weatherid="CN101190105" />
+            <county countyname="江浦" weatherid="CN101190106" />
+            <county countyname="浦口" weatherid="CN101190107" />
+        </city>
+        <city cityname="无锡" citycode="114">
+            <county countyname="无锡" weatherid="CN101190201" />
+            <county countyname="江阴" weatherid="CN101190202" />
+            <county countyname="宜兴" weatherid="CN101190203" />
+            <county countyname="锡山" weatherid="CN101190204" />
+        </city>
+        <city cityname="镇江" citycode="115">
+            <county countyname="镇江" weatherid="CN101190301" />
+            <county countyname="丹阳" weatherid="CN101190302" />
+            <county countyname="扬中" weatherid="CN101190303" />
+            <county countyname="句容" weatherid="CN101190304" />
+            <county countyname="丹徒" weatherid="CN101190305" />
+        </city>
+        <city cityname="苏州" citycode="116" />
+        <city cityname="南通" citycode="117">
+            <county countyname="南通" weatherid="CN101190501" />
+            <county countyname="海安" weatherid="CN101190502" />
+            <county countyname="如皋" weatherid="CN101190503" />
+            <county countyname="如东" weatherid="CN101190504" />
+            <county countyname="启东" weatherid="CN101190507" />
+            <county countyname="海门" weatherid="CN101190508" />
+            <county countyname="通州" weatherid="CN101190509" />
+        </city>
+        <city cityname="扬州" citycode="118" />
+        <city cityname="盐城" citycode="119">
+            <county countyname="盐城" weatherid="CN101190701" />
+            <county countyname="响水" weatherid="CN101190702" />
+            <county countyname="滨海" weatherid="CN101190703" />
+            <county countyname="阜宁" weatherid="CN101190704" />
+            <county countyname="射阳" weatherid="CN101190705" />
+            <county countyname="建湖" weatherid="CN101190706" />
+            <county countyname="东台" weatherid="CN101190707" />
+            <county countyname="大丰" weatherid="CN101190708" />
+            <county countyname="盐都" weatherid="CN101190709" />
+        </city>
+        <city cityname="徐州" citycode="120">
+            <county countyname="徐州" weatherid="CN101190801" />
+            <county countyname="铜山" weatherid="CN101190802" />
+            <county countyname="丰县" weatherid="CN101190803" />
+            <county countyname="沛县" weatherid="CN101190804" />
+            <county countyname="邳州" weatherid="CN101190805" />
+            <county countyname="睢宁" weatherid="CN101190806" />
+            <county countyname="新沂" weatherid="CN101190807" />
+        </city>
+        <city cityname="淮安" citycode="121">
+            <county countyname="淮安" weatherid="CN101190901" />
+            <county countyname="金湖" weatherid="CN101190902" />
+            <county countyname="盱眙" weatherid="CN101190903" />
+            <county countyname="洪泽" weatherid="CN101190904" />
+            <county countyname="涟水" weatherid="CN101190905" />
+            <county countyname="淮阴区" weatherid="CN101190906" />
+            <county countyname="淮安区" weatherid="CN101190908" />
+        </city>
+        <city cityname="连云港" citycode="122">
+            <county countyname="连云港" weatherid="CN101191001" />
+            <county countyname="东海" weatherid="CN101191002" />
+            <county countyname="赣榆" weatherid="CN101191003" />
+            <county countyname="灌云" weatherid="CN101191004" />
+            <county countyname="灌南" weatherid="CN101191005" />
+        </city>
+        <city cityname="常州" citycode="123">
+            <county countyname="常州" weatherid="CN101191101" />
+            <county countyname="溧阳" weatherid="CN101191102" />
+            <county countyname="金坛" weatherid="CN101191103" />
+            <county countyname="武进" weatherid="CN101191104" />
+        </city>
+        <city cityname="泰州" citycode="124">
+            <county countyname="泰州" weatherid="CN101191201" />
+            <county countyname="兴化" weatherid="CN101191202" />
+            <county countyname="泰兴" weatherid="CN101191203" />
+            <county countyname="姜堰" weatherid="CN101191204" />
+            <county countyname="靖江" weatherid="CN101191205" />
+        </city>
+        <city cityname="宿迁" citycode="125">
+            <county countyname="宿迁" weatherid="CN101191301" />
+            <county countyname="沭阳" weatherid="CN101191302" />
+            <county countyname="泗阳" weatherid="CN101191303" />
+            <county countyname="泗洪" weatherid="CN101191304" />
+            <county countyname="宿豫" weatherid="CN101191305" />
+        </city>
+    </province>
+    <province provincename="浙江" provincecode="17">
+        <city cityname="杭州" citycode="126">
+            <county countyname="杭州" weatherid="CN101210101" />
+            <county countyname="萧山" weatherid="CN101210102" />
+            <county countyname="桐庐" weatherid="CN101210103" />
+            <county countyname="淳安" weatherid="CN101210104" />
+            <county countyname="建德" weatherid="CN101210105" />
+            <county countyname="余杭" weatherid="CN101210106" />
+            <county countyname="临安" weatherid="CN101210107" />
+            <county countyname="富阳" weatherid="CN101210108" />
+        </city>
+        <city cityname="湖州" citycode="127">
+            <county countyname="湖州" weatherid="CN101210201" />
+            <county countyname="长兴" weatherid="CN101210202" />
+            <county countyname="安吉" weatherid="CN101210203" />
+            <county countyname="德清" weatherid="CN101210204" />
+        </city>
+        <city cityname="嘉兴" citycode="128">
+            <county countyname="嘉兴" weatherid="CN101210301" />
+            <county countyname="嘉善" weatherid="CN101210302" />
+            <county countyname="海宁" weatherid="CN101210303" />
+            <county countyname="桐乡" weatherid="CN101210304" />
+            <county countyname="平湖" weatherid="CN101210305" />
+            <county countyname="海盐" weatherid="CN101210306" />
+        </city>
+        <city cityname="宁波" citycode="129">
+            <county countyname="宁波" weatherid="CN101210401" />
+            <county countyname="慈溪" weatherid="CN101210403" />
+            <county countyname="余姚" weatherid="CN101210404" />
+            <county countyname="奉化" weatherid="CN101210405" />
+            <county countyname="象山" weatherid="CN101210406" />
+            <county countyname="宁海" weatherid="CN101210408" />
+            <county countyname="北仑" weatherid="CN101210410" />
+            <county countyname="鄞州" weatherid="CN101210411" />
+            <county countyname="镇海" weatherid="CN101210412" />
+        </city>
+        <city cityname="绍兴" citycode="130">
+            <county countyname="绍兴" weatherid="CN101210501" />
+            <county countyname="诸暨" weatherid="CN101210502" />
+            <county countyname="上虞" weatherid="CN101210503" />
+            <county countyname="新昌" weatherid="CN101210504" />
+            <county countyname="嵊州" weatherid="CN101210505" />
+        </city>
+        <city cityname="台州" citycode="131">
+            <county countyname="台州" weatherid="CN101210601" />
+            <county countyname="玉环" weatherid="CN101210603" />
+            <county countyname="三门" weatherid="CN101210604" />
+            <county countyname="天台" weatherid="CN101210605" />
+            <county countyname="仙居" weatherid="CN101210606" />
+            <county countyname="温岭" weatherid="CN101210607" />
+            <county countyname="洪家" weatherid="CN101210609" />
+            <county countyname="临海" weatherid="CN101210610" />
+            <county countyname="椒江" weatherid="CN101210611" />
+            <county countyname="黄岩" weatherid="CN101210612" />
+            <county countyname="路桥" weatherid="CN101210613" />
+        </city>
+        <city cityname="温州" citycode="132">
+            <county countyname="温州" weatherid="CN101210701" />
+            <county countyname="泰顺" weatherid="CN101210702" />
+            <county countyname="文成" weatherid="CN101210703" />
+            <county countyname="平阳" weatherid="CN101210704" />
+            <county countyname="瑞安" weatherid="CN101210705" />
+            <county countyname="洞头" weatherid="CN101210706" />
+            <county countyname="乐清" weatherid="CN101210707" />
+            <county countyname="永嘉" weatherid="CN101210708" />
+            <county countyname="苍南" weatherid="CN101210709" />
+        </city>
+        <city cityname="丽水" citycode="133">
+            <county countyname="丽水" weatherid="CN101210801" />
+            <county countyname="遂昌" weatherid="CN101210802" />
+            <county countyname="龙泉" weatherid="CN101210803" />
+            <county countyname="缙云" weatherid="CN101210804" />
+            <county countyname="青田" weatherid="CN101210805" />
+            <county countyname="云和" weatherid="CN101210806" />
+            <county countyname="庆元" weatherid="CN101210807" />
+            <county countyname="松阳" weatherid="CN101210808" />
+            <county countyname="景宁" weatherid="CN101210809" />
+        </city>
+        <city cityname="金华" citycode="134">
+            <county countyname="金华" weatherid="CN101210901" />
+            <county countyname="浦江" weatherid="CN101210902" />
+            <county countyname="兰溪" weatherid="CN101210903" />
+            <county countyname="义乌" weatherid="CN101210904" />
+            <county countyname="东阳" weatherid="CN101210905" />
+            <county countyname="武义" weatherid="CN101210906" />
+            <county countyname="永康" weatherid="CN101210907" />
+            <county countyname="磐安" weatherid="CN101210908" />
+        </city>
+        <city cityname="衢州" citycode="135">
+            <county countyname="衢州" weatherid="CN101211001" />
+            <county countyname="常山" weatherid="CN101211002" />
+            <county countyname="开化" weatherid="CN101211003" />
+            <county countyname="龙游" weatherid="CN101211004" />
+            <county countyname="江山" weatherid="CN101211005" />
+            <county countyname="衢江" weatherid="CN101211006" />
+        </city>
+        <city cityname="舟山" citycode="136">
+            <county countyname="舟山" weatherid="CN101211101" />
+            <county countyname="嵊泗" weatherid="CN101211102" />
+            <county countyname="岱山" weatherid="CN101211104" />
+            <county countyname="普陀" weatherid="CN101211105" />
+            <county countyname="定海" weatherid="CN101211106" />
+        </city>
+    </province>
+    <province provincename="福建" provincecode="18">
+        <city cityname="福州" citycode="137">
+            <county countyname="福州" weatherid="CN101230101" />
+            <county countyname="闽清" weatherid="CN101230102" />
+            <county countyname="闽侯" weatherid="CN101230103" />
+            <county countyname="罗源" weatherid="CN101230104" />
+            <county countyname="连江" weatherid="CN101230105" />
+            <county countyname="永泰" weatherid="CN101230107" />
+            <county countyname="平潭" weatherid="CN101230108" />
+            <county countyname="长乐" weatherid="CN101230110" />
+            <county countyname="福清" weatherid="CN101230111" />
+        </city>
+        <city cityname="钓鱼岛" citycode="138">
+            <county countyname="钓鱼岛" weatherid="CN101231001" />
+        </city>
+        <city cityname="厦门" citycode="139">
+            <county countyname="厦门" weatherid="CN101230201" />
+            <county countyname="同安" weatherid="CN101230202" />
+        </city>
+        <city cityname="宁德" citycode="140">
+            <county countyname="宁德" weatherid="CN101230301" />
+            <county countyname="古田" weatherid="CN101230302" />
+            <county countyname="霞浦" weatherid="CN101230303" />
+            <county countyname="寿宁" weatherid="CN101230304" />
+            <county countyname="周宁" weatherid="CN101230305" />
+            <county countyname="福安" weatherid="CN101230306" />
+            <county countyname="柘荣" weatherid="CN101230307" />
+            <county countyname="福鼎" weatherid="CN101230308" />
+            <county countyname="屏南" weatherid="CN101230309" />
+        </city>
+        <city cityname="莆田" citycode="141">
+            <county countyname="莆田" weatherid="CN101230401" />
+            <county countyname="仙游" weatherid="CN101230402" />
+            <county countyname="秀屿" weatherid="CN101230403" />
+            <county countyname="涵江" weatherid="CN101230404" />
+            <county countyname="秀屿港" weatherid="CN101230405" />
+            <county countyname="荔城" weatherid="CN101230406" />
+            <county countyname="城厢" weatherid="CN101230407" />
+        </city>
+        <city cityname="泉州" citycode="142">
+            <county countyname="泉州" weatherid="CN101230501" />
+            <county countyname="安溪" weatherid="CN101230502" />
+            <county countyname="永春" weatherid="CN101230504" />
+            <county countyname="德化" weatherid="CN101230505" />
+            <county countyname="南安" weatherid="CN101230506" />
+            <county countyname="崇武" weatherid="CN101230507" />
+            <county countyname="惠安" weatherid="CN101230508" />
+            <county countyname="晋江" weatherid="CN101230509" />
+            <county countyname="石狮" weatherid="CN101230510" />
+        </city>
+        <city cityname="漳州" citycode="143">
+            <county countyname="漳州" weatherid="CN101230601" />
+            <county countyname="长泰" weatherid="CN101230602" />
+            <county countyname="南靖" weatherid="CN101230603" />
+            <county countyname="平和" weatherid="CN101230604" />
+            <county countyname="龙海" weatherid="CN101230605" />
+            <county countyname="漳浦" weatherid="CN101230606" />
+            <county countyname="诏安" weatherid="CN101230607" />
+            <county countyname="东山" weatherid="CN101230608" />
+            <county countyname="云霄" weatherid="CN101230609" />
+            <county countyname="华安" weatherid="CN101230610" />
+        </city>
+        <city cityname="龙岩" citycode="144">
+            <county countyname="龙岩" weatherid="CN101230701" />
+            <county countyname="长汀" weatherid="CN101230702" />
+            <county countyname="连城" weatherid="CN101230703" />
+            <county countyname="武平" weatherid="CN101230704" />
+            <county countyname="上杭" weatherid="CN101230705" />
+            <county countyname="永定" weatherid="CN101230706" />
+            <county countyname="漳平" weatherid="CN101230707" />
+        </city>
+        <city cityname="三明" citycode="145">
+            <county countyname="三明" weatherid="CN101230801" />
+            <county countyname="宁化" weatherid="CN101230802" />
+            <county countyname="清流" weatherid="CN101230803" />
+            <county countyname="泰宁" weatherid="CN101230804" />
+            <county countyname="将乐" weatherid="CN101230805" />
+            <county countyname="建宁" weatherid="CN101230806" />
+            <county countyname="明溪" weatherid="CN101230807" />
+            <county countyname="沙县" weatherid="CN101230808" />
+            <county countyname="尤溪" weatherid="CN101230809" />
+            <county countyname="永安" weatherid="CN101230810" />
+            <county countyname="大田" weatherid="CN101230811" />
+        </city>
+        <city cityname="南平" citycode="146">
+            <county countyname="南平" weatherid="CN101230901" />
+            <county countyname="顺昌" weatherid="CN101230902" />
+            <county countyname="光泽" weatherid="CN101230903" />
+            <county countyname="邵武" weatherid="CN101230904" />
+            <county countyname="武夷山" weatherid="CN101230905" />
+            <county countyname="浦城" weatherid="CN101230906" />
+            <county countyname="建阳" weatherid="CN101230907" />
+            <county countyname="松溪" weatherid="CN101230908" />
+            <county countyname="政和" weatherid="CN101230909" />
+            <county countyname="建瓯" weatherid="CN101230910" />
+        </city>
+    </province>
+    <province provincename="江西" provincecode="19">
+        <city cityname="南昌" citycode="147">
+            <county countyname="南昌" weatherid="CN101240101" />
+            <county countyname="新建" weatherid="CN101240102" />
+            <county countyname="南昌县" weatherid="CN101240103" />
+            <county countyname="安义" weatherid="CN101240104" />
+            <county countyname="进贤" weatherid="CN101240105" />
+        </city>
+        <city cityname="九江" citycode="148">
+            <county countyname="九江" weatherid="CN101240201" />
+            <county countyname="瑞昌" weatherid="CN101240202" />
+            <county countyname="庐山" weatherid="CN101240203" />
+            <county countyname="武宁" weatherid="CN101240204" />
+            <county countyname="德安" weatherid="CN101240205" />
+            <county countyname="永修" weatherid="CN101240206" />
+            <county countyname="湖口" weatherid="CN101240207" />
+            <county countyname="彭泽" weatherid="CN101240208" />
+            <county countyname="星子" weatherid="CN101240209" />
+            <county countyname="都昌" weatherid="CN101240210" />
+            <county countyname="修水" weatherid="CN101240212" />
+        </city>
+        <city cityname="上饶" citycode="149">
+            <county countyname="上饶" weatherid="CN101240301" />
+            <county countyname="鄱阳" weatherid="CN101240302" />
+            <county countyname="婺源" weatherid="CN101240303" />
+            <county countyname="余干" weatherid="CN101240305" />
+            <county countyname="万年" weatherid="CN101240306" />
+            <county countyname="德兴" weatherid="CN101240307" />
+            <county countyname="上饶县" weatherid="CN101240308" />
+            <county countyname="弋阳" weatherid="CN101240309" />
+            <county countyname="横峰" weatherid="CN101240310" />
+            <county countyname="铅山" weatherid="CN101240311" />
+            <county countyname="玉山" weatherid="CN101240312" />
+            <county countyname="广丰" weatherid="CN101240313" />
+        </city>
+        <city cityname="抚州" citycode="150">
+            <county countyname="抚州" weatherid="CN101240401" />
+            <county countyname="广昌" weatherid="CN101240402" />
+            <county countyname="乐安" weatherid="CN101240403" />
+            <county countyname="崇仁" weatherid="CN101240404" />
+            <county countyname="金溪" weatherid="CN101240405" />
+            <county countyname="资溪" weatherid="CN101240406" />
+            <county countyname="宜黄" weatherid="CN101240407" />
+            <county countyname="南城" weatherid="CN101240408" />
+            <county countyname="南丰" weatherid="CN101240409" />
+            <county countyname="黎川" weatherid="CN101240410" />
+            <county countyname="东乡" weatherid="CN101240411" />
+        </city>
+        <city cityname="宜春" citycode="151">
+            <county countyname="宜春" weatherid="CN101240501" />
+            <county countyname="铜鼓" weatherid="CN101240502" />
+            <county countyname="宜丰" weatherid="CN101240503" />
+            <county countyname="万载" weatherid="CN101240504" />
+            <county countyname="上高" weatherid="CN101240505" />
+            <county countyname="靖安" weatherid="CN101240506" />
+            <county countyname="奉新" weatherid="CN101240507" />
+            <county countyname="高安" weatherid="CN101240508" />
+            <county countyname="樟树" weatherid="CN101240509" />
+            <county countyname="丰城" weatherid="CN101240510" />
+        </city>
+        <city cityname="吉安" citycode="152">
+            <county countyname="吉安" weatherid="CN101240601" />
+            <county countyname="吉安县" weatherid="CN101240602" />
+            <county countyname="吉水" weatherid="CN101240603" />
+            <county countyname="新干" weatherid="CN101240604" />
+            <county countyname="峡江" weatherid="CN101240605" />
+            <county countyname="永丰" weatherid="CN101240606" />
+            <county countyname="永新" weatherid="CN101240607" />
+            <county countyname="井冈山" weatherid="CN101240608" />
+            <county countyname="万安" weatherid="CN101240609" />
+            <county countyname="遂川" weatherid="CN101240610" />
+            <county countyname="泰和" weatherid="CN101240611" />
+            <county countyname="安福" weatherid="CN101240612" />
+            <county countyname="宁冈" weatherid="CN101240613" />
+        </city>
+        <city cityname="赣州" citycode="153">
+            <county countyname="赣州" weatherid="CN101240701" />
+            <county countyname="崇义" weatherid="CN101240702" />
+            <county countyname="上犹" weatherid="CN101240703" />
+            <county countyname="南康" weatherid="CN101240704" />
+            <county countyname="大余" weatherid="CN101240705" />
+            <county countyname="信丰" weatherid="CN101240706" />
+            <county countyname="宁都" weatherid="CN101240707" />
+            <county countyname="石城" weatherid="CN101240708" />
+            <county countyname="瑞金" weatherid="CN101240709" />
+            <county countyname="于都" weatherid="CN101240710" />
+            <county countyname="会昌" weatherid="CN101240711" />
+            <county countyname="安远" weatherid="CN101240712" />
+            <county countyname="全南" weatherid="CN101240713" />
+            <county countyname="龙南" weatherid="CN101240714" />
+            <county countyname="定南" weatherid="CN101240715" />
+            <county countyname="寻乌" weatherid="CN101240716" />
+            <county countyname="兴国" weatherid="CN101240717" />
+            <county countyname="赣县" weatherid="CN101240718" />
+        </city>
+        <city cityname="景德镇" citycode="154">
+            <county countyname="景德镇" weatherid="CN101240801" />
+            <county countyname="乐平" weatherid="CN101240802" />
+            <county countyname="浮梁" weatherid="CN101240803" />
+        </city>
+        <city cityname="萍乡" citycode="155">
+            <county countyname="萍乡" weatherid="CN101240901" />
+            <county countyname="莲花" weatherid="CN101240902" />
+            <county countyname="上栗" weatherid="CN101240903" />
+            <county countyname="安源" weatherid="CN101240904" />
+            <county countyname="芦溪" weatherid="CN101240905" />
+            <county countyname="湘东" weatherid="CN101240906" />
+        </city>
+        <city cityname="新余" citycode="156">
+            <county countyname="新余" weatherid="CN101241001" />
+            <county countyname="分宜" weatherid="CN101241002" />
+        </city>
+        <city cityname="鹰潭" citycode="157">
+            <county countyname="鹰潭" weatherid="CN101241101" />
+            <county countyname="余江" weatherid="CN101241102" />
+            <county countyname="贵溪" weatherid="CN101241103" />
+        </city>
+    </province>
+    <province provincename="安徽" provincecode="20">
+        <city cityname="合肥" citycode="158">
+            <county countyname="合肥" weatherid="CN101220101" />
+            <county countyname="长丰" weatherid="CN101220102" />
+            <county countyname="肥东" weatherid="CN101220103" />
+            <county countyname="肥西" weatherid="CN101220104" />
+            <county countyname="巢湖" weatherid="CN101220105" />
+            <county countyname="庐江" weatherid="CN101220106" />
+        </city>
+        <city cityname="蚌埠" citycode="159">
+            <county countyname="蚌埠" weatherid="CN101220201" />
+            <county countyname="怀远" weatherid="CN101220202" />
+            <county countyname="固镇" weatherid="CN101220203" />
+            <county countyname="五河" weatherid="CN101220204" />
+        </city>
+        <city cityname="芜湖" citycode="160">
+            <county countyname="芜湖" weatherid="CN101220301" />
+            <county countyname="繁昌" weatherid="CN101220302" />
+            <county countyname="芜湖县" weatherid="CN101220303" />
+            <county countyname="南陵" weatherid="CN101220304" />
+            <county countyname="无为" weatherid="CN101220305" />
+        </city>
+        <city cityname="淮南" citycode="161">
+            <county countyname="淮南" weatherid="CN101220401" />
+            <county countyname="凤台" weatherid="CN101220402" />
+            <county countyname="潘集" weatherid="CN101220403" />
+        </city>
+        <city cityname="马鞍山" citycode="162">
+            <county countyname="马鞍山" weatherid="CN101220501" />
+            <county countyname="当涂" weatherid="CN101220502" />
+            <county countyname="含山" weatherid="CN101220503" />
+            <county countyname="和县" weatherid="CN101220504" />
+        </city>
+        <city cityname="安庆" citycode="163">
+            <county countyname="安庆" weatherid="CN101220601" />
+            <county countyname="枞阳" weatherid="CN101220602" />
+            <county countyname="太湖" weatherid="CN101220603" />
+            <county countyname="潜山" weatherid="CN101220604" />
+            <county countyname="怀宁" weatherid="CN101220605" />
+            <county countyname="宿松" weatherid="CN101220606" />
+            <county countyname="望江" weatherid="CN101220607" />
+            <county countyname="岳西" weatherid="CN101220608" />
+            <county countyname="桐城" weatherid="CN101220609" />
+        </city>
+        <city cityname="宿州" citycode="164">
+            <county countyname="宿州" weatherid="CN101220701" />
+            <county countyname="砀山" weatherid="CN101220702" />
+            <county countyname="灵璧" weatherid="CN101220703" />
+            <county countyname="泗县" weatherid="CN101220704" />
+            <county countyname="萧县" weatherid="CN101220705" />
+        </city>
+        <city cityname="阜阳" citycode="165">
+            <county countyname="阜阳" weatherid="CN101220801" />
+            <county countyname="阜南" weatherid="CN101220802" />
+            <county countyname="颍上" weatherid="CN101220803" />
+            <county countyname="临泉" weatherid="CN101220804" />
+            <county countyname="界首" weatherid="CN101220805" />
+            <county countyname="太和" weatherid="CN101220806" />
+        </city>
+        <city cityname="亳州" citycode="166">
+            <county countyname="亳州" weatherid="CN101220901" />
+            <county countyname="涡阳" weatherid="CN101220902" />
+            <county countyname="利辛" weatherid="CN101220903" />
+            <county countyname="蒙城" weatherid="CN101220904" />
+        </city>
+        <city cityname="黄山" citycode="167">
+            <county countyname="黄山" weatherid="CN101221001" />
+            <county countyname="黄山区" weatherid="CN101221002" />
+            <county countyname="屯溪" weatherid="CN101221003" />
+            <county countyname="祁门" weatherid="CN101221004" />
+            <county countyname="黟县" weatherid="CN101221005" />
+            <county countyname="歙县" weatherid="CN101221006" />
+            <county countyname="休宁" weatherid="CN101221007" />
+            <county countyname="黄山风景区" weatherid="CN101221008" />
+        </city>
+        <city cityname="滁州" citycode="168" />
+        <city cityname="淮北" citycode="169" />
+        <city cityname="铜陵" citycode="170">
+            <county countyname="铜陵" weatherid="CN101221301" />
+        </city>
+        <city cityname="宣城" citycode="171">
+            <county countyname="宣城" weatherid="CN101221401" />
+            <county countyname="泾县" weatherid="CN101221402" />
+            <county countyname="旌德" weatherid="CN101221403" />
+            <county countyname="宁国" weatherid="CN101221404" />
+            <county countyname="绩溪" weatherid="CN101221405" />
+            <county countyname="广德" weatherid="CN101221406" />
+            <county countyname="郎溪" weatherid="CN101221407" />
+        </city>
+        <city cityname="六安" citycode="172">
+            <county countyname="六安" weatherid="CN101221501" />
+            <county countyname="霍邱" weatherid="CN101221502" />
+            <county countyname="寿县" weatherid="CN101221503" />
+            <county countyname="金寨" weatherid="CN101221505" />
+            <county countyname="霍山" weatherid="CN101221506" />
+            <county countyname="舒城" weatherid="CN101221507" />
+        </city>
+        <city cityname="池州" citycode="173">
+            <county countyname="池州" weatherid="CN101221701" />
+            <county countyname="东至" weatherid="CN101221702" />
+            <county countyname="青阳" weatherid="CN101221703" />
+            <county countyname="九华" weatherid="CN101221704" />
+            <county countyname="石台" weatherid="CN101221705" />
+        </city>
+    </province>
+    <province provincename="湖北" provincecode="21">
+        <city cityname="武汉" citycode="174">
+            <county countyname="武汉" weatherid="CN101200101" />
+            <county countyname="蔡甸" weatherid="CN101200102" />
+            <county countyname="黄陂" weatherid="CN101200103" />
+            <county countyname="新洲" weatherid="CN101200104" />
+            <county countyname="江夏" weatherid="CN101200105" />
+            <county countyname="东西湖" weatherid="CN101200106" />
+        </city>
+        <city cityname="襄阳" citycode="175">
+            <county countyname="襄阳" weatherid="CN101200201" />
+            <county countyname="襄州" weatherid="CN101200202" />
+            <county countyname="保康" weatherid="CN101200203" />
+            <county countyname="南漳" weatherid="CN101200204" />
+            <county countyname="宜城" weatherid="CN101200205" />
+            <county countyname="老河口" weatherid="CN101200206" />
+            <county countyname="谷城" weatherid="CN101200207" />
+            <county countyname="枣阳" weatherid="CN101200208" />
+        </city>
+        <city cityname="鄂州" citycode="176">
+            <county countyname="鄂州" weatherid="CN101200301" />
+            <county countyname="梁子湖" weatherid="CN101200302" />
+        </city>
+        <city cityname="孝感" citycode="177">
+            <county countyname="孝感" weatherid="CN101200401" />
+            <county countyname="安陆" weatherid="CN101200402" />
+            <county countyname="云梦" weatherid="CN101200403" />
+            <county countyname="大悟" weatherid="CN101200404" />
+            <county countyname="应城" weatherid="CN101200405" />
+            <county countyname="汉川" weatherid="CN101200406" />
+            <county countyname="孝昌" weatherid="CN101200407" />
+        </city>
+        <city cityname="黄冈" citycode="178">
+            <county countyname="黄冈" weatherid="CN101200501" />
+            <county countyname="红安" weatherid="CN101200502" />
+            <county countyname="麻城" weatherid="CN101200503" />
+            <county countyname="罗田" weatherid="CN101200504" />
+            <county countyname="英山" weatherid="CN101200505" />
+            <county countyname="浠水" weatherid="CN101200506" />
+            <county countyname="蕲春" weatherid="CN101200507" />
+            <county countyname="黄梅" weatherid="CN101200508" />
+            <county countyname="武穴" weatherid="CN101200509" />
+            <county countyname="团风" weatherid="CN101200510" />
+        </city>
+        <city cityname="黄石" citycode="179">
+            <county countyname="黄石" weatherid="CN101200601" />
+            <county countyname="大冶" weatherid="CN101200602" />
+            <county countyname="阳新" weatherid="CN101200603" />
+            <county countyname="铁山" weatherid="CN101200604" />
+            <county countyname="下陆" weatherid="CN101200605" />
+            <county countyname="西塞山" weatherid="CN101200606" />
+        </city>
+        <city cityname="咸宁" citycode="180">
+            <county countyname="咸宁" weatherid="CN101200701" />
+            <county countyname="赤壁" weatherid="CN101200702" />
+            <county countyname="嘉鱼" weatherid="CN101200703" />
+            <county countyname="崇阳" weatherid="CN101200704" />
+            <county countyname="通城" weatherid="CN101200705" />
+            <county countyname="通山" weatherid="CN101200706" />
+        </city>
+        <city cityname="荆州" citycode="181">
+            <county countyname="荆州" weatherid="CN101200801" />
+            <county countyname="江陵" weatherid="CN101200802" />
+            <county countyname="公安" weatherid="CN101200803" />
+            <county countyname="石首" weatherid="CN101200804" />
+            <county countyname="监利" weatherid="CN101200805" />
+            <county countyname="洪湖" weatherid="CN101200806" />
+            <county countyname="松滋" weatherid="CN101200807" />
+        </city>
+        <city cityname="宜昌" citycode="182">
+            <county countyname="宜昌" weatherid="CN101200901" />
+            <county countyname="远安" weatherid="CN101200902" />
+            <county countyname="秭归" weatherid="CN101200903" />
+            <county countyname="兴山" weatherid="CN101200904" />
+            <county countyname="五峰" weatherid="CN101200906" />
+            <county countyname="当阳" weatherid="CN101200907" />
+            <county countyname="长阳" weatherid="CN101200908" />
+            <county countyname="宜都" weatherid="CN101200909" />
+            <county countyname="枝江" weatherid="CN101200910" />
+            <county countyname="三峡" weatherid="CN101200911" />
+            <county countyname="夷陵" weatherid="CN101200912" />
+        </city>
+        <city cityname="恩施" citycode="183">
+            <county countyname="恩施" weatherid="CN101201001" />
+            <county countyname="利川" weatherid="CN101201002" />
+            <county countyname="建始" weatherid="CN101201003" />
+            <county countyname="咸丰" weatherid="CN101201004" />
+            <county countyname="宣恩" weatherid="CN101201005" />
+            <county countyname="鹤峰" weatherid="CN101201006" />
+            <county countyname="来凤" weatherid="CN101201007" />
+            <county countyname="巴东" weatherid="CN101201008" />
+        </city>
+        <city cityname="十堰" citycode="184">
+            <county countyname="十堰" weatherid="CN101201101" />
+            <county countyname="竹溪" weatherid="CN101201102" />
+            <county countyname="郧西" weatherid="CN101201103" />
+            <county countyname="郧县" weatherid="CN101201104" />
+            <county countyname="竹山" weatherid="CN101201105" />
+            <county countyname="房县" weatherid="CN101201106" />
+            <county countyname="丹江口" weatherid="CN101201107" />
+            <county countyname="茅箭" weatherid="CN101201108" />
+            <county countyname="张湾" weatherid="CN101201109" />
+        </city>
+        <city cityname="神农架" citycode="185" />
+        <city cityname="随州" citycode="186" />
+        <city cityname="荆门" citycode="187" />
+        <city cityname="天门" citycode="188" />
+        <city cityname="仙桃" citycode="189">
+            <county countyname="仙桃" weatherid="CN101201601" />
+        </city>
+        <city cityname="潜江" citycode="190">
+            <county countyname="潜江" weatherid="CN101201701" />
+        </city>
+    </province>
+    <province provincename="湖南" provincecode="22">
+        <city cityname="长沙" citycode="191" />
+        <city cityname="湘潭" citycode="192">
+            <county countyname="湘潭" weatherid="CN101250201" />
+            <county countyname="韶山" weatherid="CN101250202" />
+            <county countyname="湘乡" weatherid="CN101250203" />
+        </city>
+        <city cityname="株洲" citycode="193">
+            <county countyname="株洲" weatherid="CN101250301" />
+            <county countyname="攸县" weatherid="CN101250302" />
+            <county countyname="醴陵" weatherid="CN101250303" />
+            <county countyname="茶陵" weatherid="CN101250305" />
+            <county countyname="炎陵" weatherid="CN101250306" />
+        </city>
+        <city cityname="衡阳" citycode="194">
+            <county countyname="衡阳" weatherid="CN101250401" />
+            <county countyname="衡山" weatherid="CN101250402" />
+            <county countyname="衡东" weatherid="CN101250403" />
+            <county countyname="祁东" weatherid="CN101250404" />
+            <county countyname="衡阳县" weatherid="CN101250405" />
+            <county countyname="常宁" weatherid="CN101250406" />
+            <county countyname="衡南" weatherid="CN101250407" />
+            <county countyname="耒阳" weatherid="CN101250408" />
+            <county countyname="南岳" weatherid="CN101250409" />
+        </city>
+        <city cityname="郴州" citycode="195">
+            <county countyname="郴州" weatherid="CN101250501" />
+            <county countyname="桂阳" weatherid="CN101250502" />
+            <county countyname="嘉禾" weatherid="CN101250503" />
+            <county countyname="宜章" weatherid="CN101250504" />
+            <county countyname="临武" weatherid="CN101250505" />
+            <county countyname="资兴" weatherid="CN101250507" />
+            <county countyname="汝城" weatherid="CN101250508" />
+            <county countyname="安仁" weatherid="CN101250509" />
+            <county countyname="永兴" weatherid="CN101250510" />
+            <county countyname="桂东" weatherid="CN101250511" />
+            <county countyname="苏仙" weatherid="CN101250512" />
+        </city>
+        <city cityname="常德" citycode="196">
+            <county countyname="常德" weatherid="CN101250601" />
+            <county countyname="安乡" weatherid="CN101250602" />
+            <county countyname="桃源" weatherid="CN101250603" />
+            <county countyname="汉寿" weatherid="CN101250604" />
+            <county countyname="澧县" weatherid="CN101250605" />
+            <county countyname="临澧" weatherid="CN101250606" />
+            <county countyname="石门" weatherid="CN101250607" />
+            <county countyname="津市" weatherid="CN101250608" />
+        </city>
+        <city cityname="益阳" citycode="197">
+            <county countyname="赫山区" weatherid="CN101250701" />
+            <county countyname="南县" weatherid="CN101250702" />
+            <county countyname="桃江" weatherid="CN101250703" />
+            <county countyname="安化" weatherid="CN101250704" />
+            <county countyname="沅江" weatherid="CN101250705" />
+        </city>
+        <city cityname="娄底" citycode="198">
+            <county countyname="娄底" weatherid="CN101250801" />
+            <county countyname="双峰" weatherid="CN101250802" />
+            <county countyname="冷水江" weatherid="CN101250803" />
+            <county countyname="新化" weatherid="CN101250805" />
+            <county countyname="涟源" weatherid="CN101250806" />
+        </city>
+        <city cityname="邵阳" citycode="199">
+            <county countyname="邵阳" weatherid="CN101250901" />
+            <county countyname="隆回" weatherid="CN101250902" />
+            <county countyname="洞口" weatherid="CN101250903" />
+            <county countyname="新邵" weatherid="CN101250904" />
+            <county countyname="邵东" weatherid="CN101250905" />
+            <county countyname="绥宁" weatherid="CN101250906" />
+            <county countyname="新宁" weatherid="CN101250907" />
+            <county countyname="武冈" weatherid="CN101250908" />
+            <county countyname="城步" weatherid="CN101250909" />
+            <county countyname="邵阳县" weatherid="CN101250910" />
+        </city>
+        <city cityname="岳阳" citycode="200">
+            <county countyname="岳阳" weatherid="CN101251001" />
+            <county countyname="华容" weatherid="CN101251002" />
+            <county countyname="湘阴" weatherid="CN101251003" />
+            <county countyname="汨罗" weatherid="CN101251004" />
+            <county countyname="平江" weatherid="CN101251005" />
+            <county countyname="临湘" weatherid="CN101251006" />
+        </city>
+        <city cityname="张家界" citycode="201">
+            <county countyname="张家界" weatherid="CN101251101" />
+            <county countyname="桑植" weatherid="CN101251102" />
+            <county countyname="慈利" weatherid="CN101251103" />
+            <county countyname="武陵源" weatherid="CN101251104" />
+        </city>
+        <city cityname="怀化" citycode="202">
+            <county countyname="怀化" weatherid="CN101251201" />
+            <county countyname="沅陵" weatherid="CN101251203" />
+            <county countyname="辰溪" weatherid="CN101251204" />
+            <county countyname="靖州" weatherid="CN101251205" />
+            <county countyname="会同" weatherid="CN101251206" />
+            <county countyname="通道" weatherid="CN101251207" />
+            <county countyname="麻阳" weatherid="CN101251208" />
+            <county countyname="新晃" weatherid="CN101251209" />
+            <county countyname="芷江" weatherid="CN101251210" />
+            <county countyname="溆浦" weatherid="CN101251211" />
+            <county countyname="中方" weatherid="CN101251212" />
+            <county countyname="洪江" weatherid="CN101251213" />
+        </city>
+        <city cityname="永州" citycode="203">
+            <county countyname="永州" weatherid="CN101251401" />
+            <county countyname="祁阳" weatherid="CN101251402" />
+            <county countyname="东安" weatherid="CN101251403" />
+            <county countyname="双牌" weatherid="CN101251404" />
+            <county countyname="道县" weatherid="CN101251405" />
+            <county countyname="宁远" weatherid="CN101251406" />
+            <county countyname="江永" weatherid="CN101251407" />
+            <county countyname="蓝山" weatherid="CN101251408" />
+            <county countyname="新田" weatherid="CN101251409" />
+            <county countyname="江华" weatherid="CN101251410" />
+            <county countyname="冷水滩" weatherid="CN101251411" />
+        </city>
+        <city cityname="吉首" citycode="204">
+            <county countyname="吉首" weatherid="CN101251501" />
+            <county countyname="保靖" weatherid="CN101251502" />
+            <county countyname="永顺" weatherid="CN101251503" />
+            <county countyname="古丈" weatherid="CN101251504" />
+            <county countyname="凤凰" weatherid="CN101251505" />
+            <county countyname="泸溪" weatherid="CN101251506" />
+            <county countyname="龙山" weatherid="CN101251507" />
+            <county countyname="花垣" weatherid="CN101251508" />
+        </city>
+    </province>
+    <province provincename="广东" provincecode="23">
+        <city cityname="广州" citycode="205">
+            <county countyname="广州" weatherid="CN101280101" />
+            <county countyname="番禺" weatherid="CN101280102" />
+            <county countyname="从化" weatherid="CN101280103" />
+            <county countyname="增城" weatherid="CN101280104" />
+            <county countyname="花都" weatherid="CN101280105" />
+        </city>
+        <city cityname="韶关" citycode="206">
+            <county countyname="韶关" weatherid="CN101280201" />
+            <county countyname="乳源" weatherid="CN101280202" />
+            <county countyname="始兴" weatherid="CN101280203" />
+            <county countyname="翁源" weatherid="CN101280204" />
+            <county countyname="乐昌" weatherid="CN101280205" />
+            <county countyname="仁化" weatherid="CN101280206" />
+            <county countyname="南雄" weatherid="CN101280207" />
+            <county countyname="新丰" weatherid="CN101280208" />
+            <county countyname="曲江" weatherid="CN101280209" />
+            <county countyname="浈江" weatherid="CN101280210" />
+            <county countyname="武江" weatherid="CN101280211" />
+        </city>
+        <city cityname="惠州" citycode="207">
+            <county countyname="惠州" weatherid="CN101280301" />
+            <county countyname="博罗" weatherid="CN101280302" />
+            <county countyname="惠阳" weatherid="CN101280303" />
+            <county countyname="惠东" weatherid="CN101280304" />
+            <county countyname="龙门" weatherid="CN101280305" />
+        </city>
+        <city cityname="梅州" citycode="208">
+            <county countyname="梅州" weatherid="CN101280401" />
+            <county countyname="兴宁" weatherid="CN101280402" />
+            <county countyname="蕉岭" weatherid="CN101280403" />
+            <county countyname="大埔" weatherid="CN101280404" />
+            <county countyname="丰顺" weatherid="CN101280406" />
+            <county countyname="平远" weatherid="CN101280407" />
+            <county countyname="五华" weatherid="CN101280408" />
+            <county countyname="梅县" weatherid="CN101280409" />
+        </city>
+        <city cityname="汕头" citycode="209">
+            <county countyname="汕头" weatherid="CN101280501" />
+            <county countyname="潮阳" weatherid="CN101280502" />
+            <county countyname="澄海" weatherid="CN101280503" />
+            <county countyname="南澳" weatherid="CN101280504" />
+        </city>
+        <city cityname="深圳" citycode="210">
+            <county countyname="深圳" weatherid="CN101280601" />
+        </city>
+        <city cityname="珠海" citycode="211">
+            <county countyname="珠海" weatherid="CN101280701" />
+            <county countyname="斗门" weatherid="CN101280702" />
+            <county countyname="金湾" weatherid="CN101280703" />
+        </city>
+        <city cityname="顺德" citycode="212">
+            <county countyname="顺德" weatherid="CN101280801" />
+            <county countyname="三水" weatherid="CN101280802" />
+            <county countyname="南海" weatherid="CN101280803" />
+            <county countyname="高明" weatherid="CN101280804" />
+        </city>
+        <city cityname="肇庆" citycode="213">
+            <county countyname="肇庆" weatherid="CN101280901" />
+            <county countyname="广宁" weatherid="CN101280902" />
+            <county countyname="四会" weatherid="CN101280903" />
+            <county countyname="德庆" weatherid="CN101280905" />
+            <county countyname="怀集" weatherid="CN101280906" />
+            <county countyname="封开" weatherid="CN101280907" />
+            <county countyname="高要" weatherid="CN101280908" />
+        </city>
+        <city cityname="湛江" citycode="214">
+            <county countyname="湛江" weatherid="CN101281001" />
+            <county countyname="吴川" weatherid="CN101281002" />
+            <county countyname="雷州" weatherid="CN101281003" />
+            <county countyname="徐闻" weatherid="CN101281004" />
+            <county countyname="廉江" weatherid="CN101281005" />
+            <county countyname="赤坎" weatherid="CN101281006" />
+            <county countyname="遂溪" weatherid="CN101281007" />
+            <county countyname="坡头" weatherid="CN101281008" />
+            <county countyname="霞山" weatherid="CN101281009" />
+            <county countyname="麻章" weatherid="CN101281010" />
+        </city>
+        <city cityname="江门" citycode="215" />
+        <city cityname="河源" citycode="216" />
+        <city cityname="清远" citycode="217" />
+        <city cityname="云浮" citycode="218" />
+        <city cityname="潮州" citycode="219">
+            <county countyname="潮州" weatherid="CN101281501" />
+            <county countyname="饶平" weatherid="CN101281502" />
+            <county countyname="潮安" weatherid="CN101281503" />
+        </city>
+        <city cityname="东莞" citycode="220">
+            <county countyname="东莞" weatherid="CN101281601" />
+        </city>
+        <city cityname="中山" citycode="221" />
+        <city cityname="阳江" citycode="222">
+            <county countyname="阳江" weatherid="CN101281801" />
+            <county countyname="阳春" weatherid="CN101281802" />
+            <county countyname="阳东" weatherid="CN101281803" />
+            <county countyname="阳西" weatherid="CN101281804" />
+        </city>
+        <city cityname="揭阳" citycode="223" />
+        <city cityname="茂名" citycode="224">
+            <county countyname="茂名" weatherid="CN101282001" />
+            <county countyname="高州" weatherid="CN101282002" />
+            <county countyname="化州" weatherid="CN101282003" />
+            <county countyname="电白" weatherid="CN101282004" />
+            <county countyname="信宜" weatherid="CN101282005" />
+            <county countyname="茂港" weatherid="CN101282006" />
+        </city>
+        <city cityname="汕尾" citycode="225">
+            <county countyname="汕尾" weatherid="CN101282101" />
+            <county countyname="海丰" weatherid="CN101282102" />
+            <county countyname="陆丰" weatherid="CN101282103" />
+            <county countyname="陆河" weatherid="CN101282104" />
+        </city>
+        <city cityname="佛山" citycode="350">
+            <county countyname="佛山" weatherid="CN101280800" />
+            <county countyname="顺德" weatherid="CN101280801" />
+            <county countyname="三水" weatherid="CN101280802" />
+            <county countyname="南海" weatherid="CN101280803" />
+            <county countyname="高明" weatherid="CN101280804" />
+        </city>
+    </province>
+    <province provincename="广西" provincecode="24">
+        <city cityname="南宁" citycode="226">
+            <county countyname="南宁" weatherid="CN101300101" />
+            <county countyname="邕宁" weatherid="CN101300103" />
+            <county countyname="横县" weatherid="CN101300104" />
+            <county countyname="隆安" weatherid="CN101300105" />
+            <county countyname="马山" weatherid="CN101300106" />
+            <county countyname="上林" weatherid="CN101300107" />
+            <county countyname="武鸣" weatherid="CN101300108" />
+            <county countyname="宾阳" weatherid="CN101300109" />
+        </city>
+        <city cityname="崇左" citycode="227">
+            <county countyname="崇左" weatherid="CN101300201" />
+            <county countyname="天等" weatherid="CN101300202" />
+            <county countyname="龙州" weatherid="CN101300203" />
+            <county countyname="凭祥" weatherid="CN101300204" />
+            <county countyname="大新" weatherid="CN101300205" />
+            <county countyname="扶绥" weatherid="CN101300206" />
+            <county countyname="宁明" weatherid="CN101300207" />
+        </city>
+        <city cityname="柳州" citycode="228">
+            <county countyname="柳州" weatherid="CN101300301" />
+            <county countyname="柳城" weatherid="CN101300302" />
+            <county countyname="鹿寨" weatherid="CN101300304" />
+            <county countyname="柳江" weatherid="CN101300305" />
+            <county countyname="融安" weatherid="CN101300306" />
+            <county countyname="融水" weatherid="CN101300307" />
+            <county countyname="三江" weatherid="CN101300308" />
+        </city>
+        <city cityname="来宾" citycode="229">
+            <county countyname="来宾" weatherid="CN101300401" />
+            <county countyname="忻城" weatherid="CN101300402" />
+            <county countyname="金秀" weatherid="CN101300403" />
+            <county countyname="象州" weatherid="CN101300404" />
+            <county countyname="武宣" weatherid="CN101300405" />
+            <county countyname="合山" weatherid="CN101300406" />
+        </city>
+        <city cityname="桂林" citycode="230">
+            <county countyname="桂林" weatherid="CN101300501" />
+            <county countyname="龙胜" weatherid="CN101300503" />
+            <county countyname="永福" weatherid="CN101300504" />
+            <county countyname="临桂" weatherid="CN101300505" />
+            <county countyname="兴安" weatherid="CN101300506" />
+            <county countyname="灵川" weatherid="CN101300507" />
+            <county countyname="全州" weatherid="CN101300508" />
+            <county countyname="灌阳" weatherid="CN101300509" />
+            <county countyname="阳朔" weatherid="CN101300510" />
+            <county countyname="恭城" weatherid="CN101300511" />
+            <county countyname="平乐" weatherid="CN101300512" />
+            <county countyname="荔浦" weatherid="CN101300513" />
+            <county countyname="资源" weatherid="CN101300514" />
+        </city>
+        <city cityname="梧州" citycode="231">
+            <county countyname="梧州" weatherid="CN101300601" />
+            <county countyname="藤县" weatherid="CN101300602" />
+            <county countyname="苍梧" weatherid="CN101300604" />
+            <county countyname="蒙山" weatherid="CN101300605" />
+            <county countyname="岑溪" weatherid="CN101300606" />
+        </city>
+        <city cityname="贺州" citycode="232">
+            <county countyname="贺州" weatherid="CN101300701" />
+            <county countyname="昭平" weatherid="CN101300702" />
+            <county countyname="富川" weatherid="CN101300703" />
+            <county countyname="钟山" weatherid="CN101300704" />
+        </city>
+        <city cityname="贵港" citycode="233">
+            <county countyname="贵港" weatherid="CN101300801" />
+            <county countyname="桂平" weatherid="CN101300802" />
+            <county countyname="平南" weatherid="CN101300803" />
+        </city>
+        <city cityname="玉林" citycode="234">
+            <county countyname="玉林" weatherid="CN101300901" />
+            <county countyname="博白" weatherid="CN101300902" />
+            <county countyname="北流" weatherid="CN101300903" />
+            <county countyname="容县" weatherid="CN101300904" />
+            <county countyname="陆川" weatherid="CN101300905" />
+            <county countyname="兴业" weatherid="CN101300906" />
+        </city>
+        <city cityname="百色" citycode="235">
+            <county countyname="百色" weatherid="CN101301001" />
+            <county countyname="那坡" weatherid="CN101301002" />
+            <county countyname="田阳" weatherid="CN101301003" />
+            <county countyname="德保" weatherid="CN101301004" />
+            <county countyname="靖西" weatherid="CN101301005" />
+            <county countyname="田东" weatherid="CN101301006" />
+            <county countyname="平果" weatherid="CN101301007" />
+            <county countyname="隆林" weatherid="CN101301008" />
+            <county countyname="西林" weatherid="CN101301009" />
+            <county countyname="乐业" weatherid="CN101301010" />
+            <county countyname="凌云" weatherid="CN101301011" />
+            <county countyname="田林" weatherid="CN101301012" />
+        </city>
+        <city cityname="钦州" citycode="236">
+            <county countyname="钦州" weatherid="CN101301101" />
+            <county countyname="浦北" weatherid="CN101301102" />
+            <county countyname="灵山" weatherid="CN101301103" />
+        </city>
+        <city cityname="河池" citycode="237">
+            <county countyname="河池" weatherid="CN101301201" />
+            <county countyname="天峨" weatherid="CN101301202" />
+            <county countyname="东兰" weatherid="CN101301203" />
+            <county countyname="巴马" weatherid="CN101301204" />
+            <county countyname="环江" weatherid="CN101301205" />
+            <county countyname="罗城" weatherid="CN101301206" />
+            <county countyname="宜州" weatherid="CN101301207" />
+            <county countyname="凤山" weatherid="CN101301208" />
+            <county countyname="南丹" weatherid="CN101301209" />
+            <county countyname="都安" weatherid="CN101301210" />
+            <county countyname="大化" weatherid="CN101301211" />
+        </city>
+        <city cityname="北海" citycode="238">
+            <county countyname="北海" weatherid="CN101301301" />
+            <county countyname="合浦" weatherid="CN101301302" />
+            <county countyname="涠洲岛" weatherid="CN101301303" />
+        </city>
+        <city cityname="防城港" citycode="239">
+            <county countyname="防城港" weatherid="CN101301401" />
+            <county countyname="上思" weatherid="CN101301402" />
+            <county countyname="东兴" weatherid="CN101301403" />
+            <county countyname="防城" weatherid="CN101301405" />
+        </city>
+    </province>
+    <province provincename="海南" provincecode="25">
+        <city cityname="海口" citycode="240">
+            <county countyname="海口" weatherid="CN101310101" />
+        </city>
+        <city cityname="三亚" citycode="241">
+            <county countyname="三亚" weatherid="CN101310201" />
+            <county countyname="东方" weatherid="CN101310202" />
+            <county countyname="临高" weatherid="CN101310203" />
+            <county countyname="澄迈" weatherid="CN101310204" />
+            <county countyname="儋州" weatherid="CN101310205" />
+            <county countyname="昌江" weatherid="CN101310206" />
+            <county countyname="白沙" weatherid="CN101310207" />
+            <county countyname="琼中" weatherid="CN101310208" />
+            <county countyname="定安" weatherid="CN101310209" />
+            <county countyname="屯昌" weatherid="CN101310210" />
+            <county countyname="琼海" weatherid="CN101310211" />
+            <county countyname="文昌" weatherid="CN101310212" />
+            <county countyname="保亭" weatherid="CN101310214" />
+            <county countyname="万宁" weatherid="CN101310215" />
+            <county countyname="陵水" weatherid="CN101310216" />
+            <county countyname="西沙" weatherid="CN101310217" />
+            <county countyname="南沙" weatherid="CN101310220" />
+            <county countyname="乐东" weatherid="CN101310221" />
+            <county countyname="五指山" weatherid="CN101310222" />
+            <county countyname="中沙" weatherid="CN101310224" />
+        </city>
+    </province>
+    <province provincename="贵州" provincecode="26">
+        <city cityname="贵阳" citycode="242">
+            <county countyname="贵阳" weatherid="CN101260101" />
+            <county countyname="白云" weatherid="CN101260102" />
+            <county countyname="花溪" weatherid="CN101260103" />
+            <county countyname="乌当" weatherid="CN101260104" />
+            <county countyname="息烽" weatherid="CN101260105" />
+            <county countyname="开阳" weatherid="CN101260106" />
+            <county countyname="修文" weatherid="CN101260107" />
+            <county countyname="清镇" weatherid="CN101260108" />
+            <county countyname="小河" weatherid="CN101260109" />
+            <county countyname="云岩" weatherid="CN101260110" />
+            <county countyname="南明" weatherid="CN101260111" />
+        </city>
+        <city cityname="遵义" citycode="243">
+            <county countyname="遵义" weatherid="CN101260201" />
+            <county countyname="遵义县" weatherid="CN101260202" />
+            <county countyname="仁怀" weatherid="CN101260203" />
+            <county countyname="绥阳" weatherid="CN101260204" />
+            <county countyname="湄潭" weatherid="CN101260205" />
+            <county countyname="凤冈" weatherid="CN101260206" />
+            <county countyname="桐梓" weatherid="CN101260207" />
+            <county countyname="赤水" weatherid="CN101260208" />
+            <county countyname="习水" weatherid="CN101260209" />
+            <county countyname="道真" weatherid="CN101260210" />
+            <county countyname="正安" weatherid="CN101260211" />
+            <county countyname="务川" weatherid="CN101260212" />
+            <county countyname="余庆" weatherid="CN101260213" />
+            <county countyname="汇川" weatherid="CN101260214" />
+            <county countyname="红花岗" weatherid="CN101260215" />
+        </city>
+        <city cityname="安顺" citycode="244">
+            <county countyname="安顺" weatherid="CN101260301" />
+            <county countyname="普定" weatherid="CN101260302" />
+            <county countyname="镇宁" weatherid="CN101260303" />
+            <county countyname="平坝" weatherid="CN101260304" />
+            <county countyname="紫云" weatherid="CN101260305" />
+            <county countyname="关岭" weatherid="CN101260306" />
+        </city>
+        <city cityname="都匀" citycode="245">
+            <county countyname="都匀" weatherid="CN101260401" />
+            <county countyname="贵定" weatherid="CN101260402" />
+            <county countyname="瓮安" weatherid="CN101260403" />
+            <county countyname="长顺" weatherid="CN101260404" />
+            <county countyname="福泉" weatherid="CN101260405" />
+            <county countyname="惠水" weatherid="CN101260406" />
+            <county countyname="龙里" weatherid="CN101260407" />
+            <county countyname="罗甸" weatherid="CN101260408" />
+            <county countyname="平塘" weatherid="CN101260409" />
+            <county countyname="独山" weatherid="CN101260410" />
+            <county countyname="三都" weatherid="CN101260411" />
+            <county countyname="荔波" weatherid="CN101260412" />
+        </city>
+        <city cityname="凯里" citycode="246">
+            <county countyname="凯里" weatherid="CN101260501" />
+            <county countyname="岑巩" weatherid="CN101260502" />
+            <county countyname="施秉" weatherid="CN101260503" />
+            <county countyname="镇远" weatherid="CN101260504" />
+            <county countyname="黄平" weatherid="CN101260505" />
+            <county countyname="麻江" weatherid="CN101260507" />
+            <county countyname="丹寨" weatherid="CN101260508" />
+            <county countyname="三穗" weatherid="CN101260509" />
+            <county countyname="台江" weatherid="CN101260510" />
+            <county countyname="剑河" weatherid="CN101260511" />
+            <county countyname="雷山" weatherid="CN101260512" />
+            <county countyname="黎平" weatherid="CN101260513" />
+            <county countyname="天柱" weatherid="CN101260514" />
+            <county countyname="锦屏" weatherid="CN101260515" />
+            <county countyname="榕江" weatherid="CN101260516" />
+            <county countyname="从江" weatherid="CN101260517" />
+        </city>
+        <city cityname="铜仁" citycode="247">
+            <county countyname="铜仁" weatherid="CN101260601" />
+            <county countyname="江口" weatherid="CN101260602" />
+            <county countyname="玉屏" weatherid="CN101260603" />
+            <county countyname="万山" weatherid="CN101260604" />
+            <county countyname="思南" weatherid="CN101260605" />
+            <county countyname="印江" weatherid="CN101260607" />
+            <county countyname="石阡" weatherid="CN101260608" />
+            <county countyname="沿河" weatherid="CN101260609" />
+            <county countyname="德江" weatherid="CN101260610" />
+            <county countyname="松桃" weatherid="CN101260611" />
+        </city>
+        <city cityname="毕节" citycode="248">
+            <county countyname="毕节" weatherid="CN101260701" />
+            <county countyname="赫章" weatherid="CN101260702" />
+            <county countyname="金沙" weatherid="CN101260703" />
+            <county countyname="威宁" weatherid="CN101260704" />
+            <county countyname="大方" weatherid="CN101260705" />
+            <county countyname="纳雍" weatherid="CN101260706" />
+            <county countyname="织金" weatherid="CN101260707" />
+            <county countyname="黔西" weatherid="CN101260708" />
+        </city>
+        <city cityname="水城" citycode="249">
+            <county countyname="水城" weatherid="CN101260801" />
+            <county countyname="六枝" weatherid="CN101260802" />
+            <county countyname="盘县" weatherid="CN101260804" />
+        </city>
+        <city cityname="兴义" citycode="250">
+            <county countyname="兴义" weatherid="CN101260901" />
+            <county countyname="晴隆" weatherid="CN101260902" />
+            <county countyname="兴仁" weatherid="CN101260903" />
+            <county countyname="贞丰" weatherid="CN101260904" />
+            <county countyname="望谟" weatherid="CN101260905" />
+            <county countyname="安龙" weatherid="CN101260907" />
+            <county countyname="册亨" weatherid="CN101260908" />
+            <county countyname="普安" weatherid="CN101260909" />
+        </city>
+    </province>
+    <province provincename="云南" provincecode="27">
+        <city cityname="昆明" citycode="251">
+            <county countyname="昆明" weatherid="CN101290101" />
+            <county countyname="东川" weatherid="CN101290103" />
+            <county countyname="寻甸" weatherid="CN101290104" />
+            <county countyname="晋宁" weatherid="CN101290105" />
+            <county countyname="宜良" weatherid="CN101290106" />
+            <county countyname="石林" weatherid="CN101290107" />
+            <county countyname="呈贡" weatherid="CN101290108" />
+            <county countyname="富民" weatherid="CN101290109" />
+            <county countyname="嵩明" weatherid="CN101290110" />
+            <county countyname="禄劝" weatherid="CN101290111" />
+            <county countyname="安宁" weatherid="CN101290112" />
+            <county countyname="太华" weatherid="CN101290113" />
+        </city>
+        <city cityname="大理" citycode="252">
+            <county countyname="大理" weatherid="CN101290201" />
+            <county countyname="云龙" weatherid="CN101290202" />
+            <county countyname="漾濞" weatherid="CN101290203" />
+            <county countyname="永平" weatherid="CN101290204" />
+            <county countyname="宾川" weatherid="CN101290205" />
+            <county countyname="弥渡" weatherid="CN101290206" />
+            <county countyname="祥云" weatherid="CN101290207" />
+            <county countyname="巍山" weatherid="CN101290208" />
+            <county countyname="剑川" weatherid="CN101290209" />
+            <county countyname="洱源" weatherid="CN101290210" />
+            <county countyname="鹤庆" weatherid="CN101290211" />
+            <county countyname="南涧" weatherid="CN101290212" />
+        </city>
+        <city cityname="红河" citycode="253">
+            <county countyname="红河" weatherid="CN101290301" />
+            <county countyname="石屏" weatherid="CN101290302" />
+            <county countyname="建水" weatherid="CN101290303" />
+            <county countyname="弥勒" weatherid="CN101290304" />
+            <county countyname="元阳" weatherid="CN101290305" />
+            <county countyname="绿春" weatherid="CN101290306" />
+            <county countyname="开远" weatherid="CN101290307" />
+            <county countyname="个旧" weatherid="CN101290308" />
+            <county countyname="蒙自" weatherid="CN101290309" />
+            <county countyname="屏边" weatherid="CN101290310" />
+            <county countyname="泸西" weatherid="CN101290311" />
+            <county countyname="金平" weatherid="CN101290312" />
+            <county countyname="河口" weatherid="CN101290313" />
+        </city>
+        <city cityname="曲靖" citycode="254">
+            <county countyname="曲靖" weatherid="CN101290401" />
+            <county countyname="沾益" weatherid="CN101290402" />
+            <county countyname="陆良" weatherid="CN101290403" />
+            <county countyname="富源" weatherid="CN101290404" />
+            <county countyname="马龙" weatherid="CN101290405" />
+            <county countyname="师宗" weatherid="CN101290406" />
+            <county countyname="罗平" weatherid="CN101290407" />
+            <county countyname="会泽" weatherid="CN101290408" />
+            <county countyname="宣威" weatherid="CN101290409" />
+        </city>
+        <city cityname="保山" citycode="255">
+            <county countyname="保山" weatherid="CN101290501" />
+            <county countyname="龙陵" weatherid="CN101290503" />
+            <county countyname="施甸" weatherid="CN101290504" />
+            <county countyname="昌宁" weatherid="CN101290505" />
+            <county countyname="腾冲" weatherid="CN101290506" />
+        </city>
+        <city cityname="文山" citycode="256">
+            <county countyname="文山" weatherid="CN101290601" />
+            <county countyname="西畴" weatherid="CN101290602" />
+            <county countyname="马关" weatherid="CN101290603" />
+            <county countyname="麻栗坡" weatherid="CN101290604" />
+            <county countyname="砚山" weatherid="CN101290605" />
+            <county countyname="丘北" weatherid="CN101290606" />
+            <county countyname="广南" weatherid="CN101290607" />
+            <county countyname="富宁" weatherid="CN101290608" />
+        </city>
+        <city cityname="玉溪" citycode="257">
+            <county countyname="玉溪" weatherid="CN101290701" />
+            <county countyname="澄江" weatherid="CN101290702" />
+            <county countyname="江川" weatherid="CN101290703" />
+            <county countyname="通海" weatherid="CN101290704" />
+            <county countyname="华宁" weatherid="CN101290705" />
+            <county countyname="新平" weatherid="CN101290706" />
+            <county countyname="易门" weatherid="CN101290707" />
+            <county countyname="峨山" weatherid="CN101290708" />
+            <county countyname="元江" weatherid="CN101290709" />
+        </city>
+        <city cityname="楚雄" citycode="258">
+            <county countyname="楚雄" weatherid="CN101290801" />
+            <county countyname="大姚" weatherid="CN101290802" />
+            <county countyname="元谋" weatherid="CN101290803" />
+            <county countyname="姚安" weatherid="CN101290804" />
+            <county countyname="牟定" weatherid="CN101290805" />
+            <county countyname="南华" weatherid="CN101290806" />
+            <county countyname="武定" weatherid="CN101290807" />
+            <county countyname="禄丰" weatherid="CN101290808" />
+            <county countyname="双柏" weatherid="CN101290809" />
+            <county countyname="永仁" weatherid="CN101290810" />
+        </city>
+        <city cityname="普洱" citycode="259">
+            <county countyname="普洱" weatherid="CN101290901" />
+            <county countyname="景谷" weatherid="CN101290902" />
+            <county countyname="景东" weatherid="CN101290903" />
+            <county countyname="澜沧" weatherid="CN101290904" />
+            <county countyname="墨江" weatherid="CN101290906" />
+            <county countyname="江城" weatherid="CN101290907" />
+            <county countyname="孟连" weatherid="CN101290908" />
+            <county countyname="西盟" weatherid="CN101290909" />
+            <county countyname="镇沅" weatherid="CN101290911" />
+            <county countyname="宁洱" weatherid="CN101290912" />
+        </city>
+        <city cityname="昭通" citycode="260" />
+        <city cityname="临沧" citycode="261">
+            <county countyname="临沧" weatherid="CN101291101" />
+            <county countyname="沧源" weatherid="CN101291102" />
+            <county countyname="耿马" weatherid="CN101291103" />
+            <county countyname="双江" weatherid="CN101291104" />
+            <county countyname="凤庆" weatherid="CN101291105" />
+            <county countyname="永德" weatherid="CN101291106" />
+            <county countyname="云县" weatherid="CN101291107" />
+            <county countyname="镇康" weatherid="CN101291108" />
+        </city>
+        <city cityname="怒江" citycode="262">
+            <county countyname="怒江" weatherid="CN101291201" />
+            <county countyname="福贡" weatherid="CN101291203" />
+            <county countyname="兰坪" weatherid="CN101291204" />
+            <county countyname="泸水" weatherid="CN101291205" />
+            <county countyname="六库" weatherid="CN101291206" />
+            <county countyname="贡山" weatherid="CN101291207" />
+        </city>
+        <city cityname="香格里拉" citycode="263">
+            <county countyname="香格里拉" weatherid="CN101291301" />
+            <county countyname="德钦" weatherid="CN101291302" />
+            <county countyname="维西" weatherid="CN101291303" />
+            <county countyname="中甸" weatherid="CN101291304" />
+        </city>
+        <city cityname="丽江" citycode="264" />
+        <city cityname="德宏" citycode="265">
+            <county countyname="德宏" weatherid="CN101291501" />
+            <county countyname="陇川" weatherid="CN101291503" />
+            <county countyname="盈江" weatherid="CN101291504" />
+            <county countyname="瑞丽" weatherid="CN101291506" />
+            <county countyname="梁河" weatherid="CN101291507" />
+            <county countyname="芒市" weatherid="CN101291508" />
+        </city>
+        <city cityname="景洪" citycode="266">
+            <county countyname="景洪" weatherid="CN101291601" />
+            <county countyname="勐海" weatherid="CN101291603" />
+            <county countyname="勐腊" weatherid="CN101291605" />
+        </city>
+    </province>
+    <province provincename="四川" provincecode="28">
+        <city cityname="成都" citycode="267">
+            <county countyname="成都" weatherid="CN101270101" />
+            <county countyname="龙泉驿" weatherid="CN101270102" />
+            <county countyname="新都" weatherid="CN101270103" />
+            <county countyname="温江" weatherid="CN101270104" />
+            <county countyname="金堂" weatherid="CN101270105" />
+            <county countyname="双流" weatherid="CN101270106" />
+            <county countyname="郫县" weatherid="CN101270107" />
+            <county countyname="大邑" weatherid="CN101270108" />
+            <county countyname="蒲江" weatherid="CN101270109" />
+            <county countyname="新津" weatherid="CN101270110" />
+            <county countyname="都江堰" weatherid="CN101270111" />
+            <county countyname="彭州" weatherid="CN101270112" />
+            <county countyname="邛崃" weatherid="CN101270113" />
+            <county countyname="崇州" weatherid="CN101270114" />
+            <county countyname="青白江区" weatherid="CN101270115" />
+        </city>
+        <city cityname="攀枝花" citycode="268">
+            <county countyname="攀枝花" weatherid="CN101270201" />
+            <county countyname="仁和" weatherid="CN101270202" />
+            <county countyname="米易" weatherid="CN101270203" />
+            <county countyname="盐边" weatherid="CN101270204" />
+        </city>
+        <city cityname="自贡" citycode="269">
+            <county countyname="自贡" weatherid="CN101270301" />
+            <county countyname="富顺" weatherid="CN101270302" />
+            <county countyname="荣县" weatherid="CN101270303" />
+        </city>
+        <city cityname="绵阳" citycode="270">
+            <county countyname="绵阳" weatherid="CN101270401" />
+            <county countyname="三台" weatherid="CN101270402" />
+            <county countyname="盐亭" weatherid="CN101270403" />
+            <county countyname="安县" weatherid="CN101270404" />
+            <county countyname="梓潼" weatherid="CN101270405" />
+            <county countyname="北川" weatherid="CN101270406" />
+            <county countyname="平武" weatherid="CN101270407" />
+            <county countyname="江油" weatherid="CN101270408" />
+        </city>
+        <city cityname="南充" citycode="271">
+            <county countyname="南充" weatherid="CN101270501" />
+            <county countyname="南部" weatherid="CN101270502" />
+            <county countyname="营山" weatherid="CN101270503" />
+            <county countyname="蓬安" weatherid="CN101270504" />
+            <county countyname="仪陇" weatherid="CN101270505" />
+            <county countyname="西充" weatherid="CN101270506" />
+            <county countyname="阆中" weatherid="CN101270507" />
+        </city>
+        <city cityname="达州" citycode="272">
+            <county countyname="达州" weatherid="CN101270601" />
+            <county countyname="宣汉" weatherid="CN101270602" />
+            <county countyname="开江" weatherid="CN101270603" />
+            <county countyname="大竹" weatherid="CN101270604" />
+            <county countyname="渠县" weatherid="CN101270605" />
+            <county countyname="万源" weatherid="CN101270606" />
+            <county countyname="通川" weatherid="CN101270607" />
+            <county countyname="达县" weatherid="CN101270608" />
+        </city>
+        <city cityname="遂宁" citycode="273">
+            <county countyname="遂宁" weatherid="CN101270701" />
+            <county countyname="蓬溪" weatherid="CN101270702" />
+            <county countyname="射洪" weatherid="CN101270703" />
+        </city>
+        <city cityname="广安" citycode="274">
+            <county countyname="广安" weatherid="CN101270801" />
+            <county countyname="岳池" weatherid="CN101270802" />
+            <county countyname="武胜" weatherid="CN101270803" />
+            <county countyname="邻水" weatherid="CN101270804" />
+            <county countyname="华蓥" weatherid="CN101270805" />
+        </city>
+        <city cityname="巴中" citycode="275">
+            <county countyname="巴中" weatherid="CN101270901" />
+            <county countyname="通江" weatherid="CN101270902" />
+            <county countyname="南江" weatherid="CN101270903" />
+            <county countyname="平昌" weatherid="CN101270904" />
+        </city>
+        <city cityname="泸州" citycode="276">
+            <county countyname="泸州" weatherid="CN101271001" />
+            <county countyname="泸县" weatherid="CN101271003" />
+            <county countyname="合江" weatherid="CN101271004" />
+            <county countyname="叙永" weatherid="CN101271005" />
+            <county countyname="古蔺" weatherid="CN101271006" />
+            <county countyname="纳溪" weatherid="CN101271007" />
+        </city>
+        <city cityname="宜宾" citycode="277">
+            <county countyname="宜宾" weatherid="CN101271101" />
+            <county countyname="宜宾县" weatherid="CN101271103" />
+            <county countyname="南溪" weatherid="CN101271104" />
+            <county countyname="江安" weatherid="CN101271105" />
+            <county countyname="长宁" weatherid="CN101271106" />
+            <county countyname="高县" weatherid="CN101271107" />
+            <county countyname="珙县" weatherid="CN101271108" />
+            <county countyname="筠连" weatherid="CN101271109" />
+            <county countyname="兴文" weatherid="CN101271110" />
+            <county countyname="屏山" weatherid="CN101271111" />
+        </city>
+        <city cityname="内江" citycode="278" />
+        <city cityname="资阳" citycode="279" />
+        <city cityname="乐山" citycode="280" />
+        <city cityname="眉山" citycode="281" />
+        <city cityname="凉山" citycode="282" />
+        <city cityname="雅安" citycode="283">
+            <county countyname="雅安" weatherid="CN101271701" />
+            <county countyname="名山" weatherid="CN101271702" />
+            <county countyname="荥经" weatherid="CN101271703" />
+            <county countyname="汉源" weatherid="CN101271704" />
+            <county countyname="石棉" weatherid="CN101271705" />
+            <county countyname="天全" weatherid="CN101271706" />
+            <county countyname="芦山" weatherid="CN101271707" />
+            <county countyname="宝兴" weatherid="CN101271708" />
+        </city>
+        <city cityname="甘孜" citycode="284">
+            <county countyname="甘孜" weatherid="CN101271801" />
+            <county countyname="康定" weatherid="CN101271802" />
+            <county countyname="泸定" weatherid="CN101271803" />
+            <county countyname="丹巴" weatherid="CN101271804" />
+            <county countyname="九龙" weatherid="CN101271805" />
+            <county countyname="雅江" weatherid="CN101271806" />
+            <county countyname="道孚" weatherid="CN101271807" />
+            <county countyname="炉霍" weatherid="CN101271808" />
+            <county countyname="新龙" weatherid="CN101271809" />
+            <county countyname="德格" weatherid="CN101271810" />
+            <county countyname="白玉" weatherid="CN101271811" />
+            <county countyname="石渠" weatherid="CN101271812" />
+            <county countyname="色达" weatherid="CN101271813" />
+            <county countyname="理塘" weatherid="CN101271814" />
+            <county countyname="巴塘" weatherid="CN101271815" />
+            <county countyname="乡城" weatherid="CN101271816" />
+            <county countyname="稻城" weatherid="CN101271817" />
+            <county countyname="得荣" weatherid="CN101271818" />
+        </city>
+        <city cityname="阿坝" citycode="285">
+            <county countyname="阿坝" weatherid="CN101271901" />
+            <county countyname="汶川" weatherid="CN101271902" />
+            <county countyname="理县" weatherid="CN101271903" />
+            <county countyname="茂县" weatherid="CN101271904" />
+            <county countyname="松潘" weatherid="CN101271905" />
+            <county countyname="九寨沟" weatherid="CN101271906" />
+            <county countyname="金川" weatherid="CN101271907" />
+            <county countyname="小金" weatherid="CN101271908" />
+            <county countyname="黑水" weatherid="CN101271909" />
+            <county countyname="马尔康" weatherid="CN101271910" />
+            <county countyname="壤塘" weatherid="CN101271911" />
+            <county countyname="若尔盖" weatherid="CN101271912" />
+            <county countyname="红原" weatherid="CN101271913" />
+        </city>
+        <city cityname="德阳" citycode="286">
+            <county countyname="德阳" weatherid="CN101272001" />
+            <county countyname="中江" weatherid="CN101272002" />
+            <county countyname="广汉" weatherid="CN101272003" />
+            <county countyname="什邡" weatherid="CN101272004" />
+            <county countyname="绵竹" weatherid="CN101272005" />
+            <county countyname="罗江" weatherid="CN101272006" />
+        </city>
+        <city cityname="广元" citycode="287">
+            <county countyname="广元" weatherid="CN101272101" />
+            <county countyname="旺苍" weatherid="CN101272102" />
+            <county countyname="青川" weatherid="CN101272103" />
+            <county countyname="剑阁" weatherid="CN101272104" />
+            <county countyname="苍溪" weatherid="CN101272105" />
+        </city>
+    </province>
+    <province provincename="西藏" provincecode="29">
+        <city cityname="拉萨" citycode="288">
+            <county countyname="拉萨" weatherid="CN101140101" />
+            <county countyname="当雄" weatherid="CN101140102" />
+            <county countyname="尼木" weatherid="CN101140103" />
+            <county countyname="林周" weatherid="CN101140104" />
+            <county countyname="堆龙德庆" weatherid="CN101140105" />
+            <county countyname="曲水" weatherid="CN101140106" />
+            <county countyname="达孜" weatherid="CN101140107" />
+            <county countyname="墨竹工卡" weatherid="CN101140108" />
+        </city>
+        <city cityname="日喀则" citycode="289">
+            <county countyname="日喀则" weatherid="CN101140201" />
+            <county countyname="拉孜" weatherid="CN101140202" />
+            <county countyname="南木林" weatherid="CN101140203" />
+            <county countyname="聂拉木" weatherid="CN101140204" />
+            <county countyname="定日" weatherid="CN101140205" />
+            <county countyname="江孜" weatherid="CN101140206" />
+            <county countyname="帕里" weatherid="CN101140207" />
+            <county countyname="仲巴" weatherid="CN101140208" />
+            <county countyname="萨嘎" weatherid="CN101140209" />
+            <county countyname="吉隆" weatherid="CN101140210" />
+            <county countyname="昂仁" weatherid="CN101140211" />
+            <county countyname="定结" weatherid="CN101140212" />
+            <county countyname="萨迦" weatherid="CN101140213" />
+            <county countyname="谢通门" weatherid="CN101140214" />
+            <county countyname="岗巴" weatherid="CN101140216" />
+            <county countyname="白朗" weatherid="CN101140217" />
+            <county countyname="亚东" weatherid="CN101140218" />
+            <county countyname="康马" weatherid="CN101140219" />
+            <county countyname="仁布" weatherid="CN101140220" />
+        </city>
+        <city cityname="山南" citycode="290">
+            <county countyname="山南" weatherid="CN101140301" />
+            <county countyname="贡嘎" weatherid="CN101140302" />
+            <county countyname="札囊" weatherid="CN101140303" />
+            <county countyname="加查" weatherid="CN101140304" />
+            <county countyname="浪卡子" weatherid="CN101140305" />
+            <county countyname="错那" weatherid="CN101140306" />
+            <county countyname="隆子" weatherid="CN101140307" />
+            <county countyname="泽当" weatherid="CN101140308" />
+            <county countyname="乃东" weatherid="CN101140309" />
+            <county countyname="桑日" weatherid="CN101140310" />
+            <county countyname="洛扎" weatherid="CN101140311" />
+            <county countyname="措美" weatherid="CN101140312" />
+            <county countyname="琼结" weatherid="CN101140313" />
+            <county countyname="曲松" weatherid="CN101140314" />
+        </city>
+        <city cityname="林芝" citycode="291">
+            <county countyname="林芝" weatherid="CN101140401" />
+            <county countyname="波密" weatherid="CN101140402" />
+            <county countyname="米林" weatherid="CN101140403" />
+            <county countyname="察隅" weatherid="CN101140404" />
+            <county countyname="工布江达" weatherid="CN101140405" />
+            <county countyname="朗县" weatherid="CN101140406" />
+            <county countyname="墨脱" weatherid="CN101140407" />
+        </city>
+        <city cityname="昌都" citycode="292">
+            <county countyname="昌都" weatherid="CN101140501" />
+            <county countyname="丁青" weatherid="CN101140502" />
+            <county countyname="边坝" weatherid="CN101140503" />
+            <county countyname="洛隆" weatherid="CN101140504" />
+            <county countyname="左贡" weatherid="CN101140505" />
+            <county countyname="芒康" weatherid="CN101140506" />
+            <county countyname="类乌齐" weatherid="CN101140507" />
+            <county countyname="八宿" weatherid="CN101140508" />
+            <county countyname="江达" weatherid="CN101140509" />
+            <county countyname="察雅" weatherid="CN101140510" />
+            <county countyname="贡觉" weatherid="CN101140511" />
+        </city>
+        <city cityname="那曲" citycode="293">
+            <county countyname="那曲" weatherid="CN101140601" />
+            <county countyname="尼玛" weatherid="CN101140602" />
+            <county countyname="嘉黎" weatherid="CN101140603" />
+            <county countyname="班戈" weatherid="CN101140604" />
+            <county countyname="安多" weatherid="CN101140605" />
+            <county countyname="索县" weatherid="CN101140606" />
+            <county countyname="聂荣" weatherid="CN101140607" />
+            <county countyname="巴青" weatherid="CN101140608" />
+            <county countyname="比如" weatherid="CN101140609" />
+            <county countyname="双湖" weatherid="CN101140610" />
+        </city>
+        <city cityname="阿里" citycode="294">
+            <county countyname="阿里" weatherid="CN101140701" />
+            <county countyname="改则" weatherid="CN101140702" />
+            <county countyname="申扎" weatherid="CN101140703" />
+            <county countyname="狮泉河" weatherid="CN101140704" />
+            <county countyname="普兰" weatherid="CN101140705" />
+            <county countyname="札达" weatherid="CN101140706" />
+            <county countyname="噶尔" weatherid="CN101140707" />
+            <county countyname="日土" weatherid="CN101140708" />
+            <county countyname="革吉" weatherid="CN101140709" />
+            <county countyname="措勤" weatherid="CN101140710" />
+        </city>
+    </province>
+    <province provincename="陕西" provincecode="30">
+        <city cityname="西安" citycode="295">
+            <county countyname="西安" weatherid="CN101110101" />
+            <county countyname="长安" weatherid="CN101110102" />
+            <county countyname="临潼" weatherid="CN101110103" />
+            <county countyname="蓝田" weatherid="CN101110104" />
+            <county countyname="周至" weatherid="CN101110105" />
+            <county countyname="户县" weatherid="CN101110106" />
+            <county countyname="高陵" weatherid="CN101110107" />
+        </city>
+        <city cityname="三原" citycode="296">
+            <county countyname="三原" weatherid="CN101110201" />
+            <county countyname="礼泉" weatherid="CN101110202" />
+            <county countyname="永寿" weatherid="CN101110203" />
+            <county countyname="淳化" weatherid="CN101110204" />
+            <county countyname="泾阳" weatherid="CN101110205" />
+            <county countyname="武功" weatherid="CN101110206" />
+            <county countyname="乾县" weatherid="CN101110207" />
+            <county countyname="彬县" weatherid="CN101110208" />
+            <county countyname="长武" weatherid="CN101110209" />
+            <county countyname="旬邑" weatherid="CN101110210" />
+            <county countyname="兴平" weatherid="CN101110211" />
+        </city>
+        <city cityname="延长" citycode="297">
+            <county countyname="延长" weatherid="CN101110301" />
+            <county countyname="延川" weatherid="CN101110302" />
+            <county countyname="子长" weatherid="CN101110303" />
+            <county countyname="宜川" weatherid="CN101110304" />
+            <county countyname="富县" weatherid="CN101110305" />
+            <county countyname="志丹" weatherid="CN101110306" />
+            <county countyname="安塞" weatherid="CN101110307" />
+            <county countyname="甘泉" weatherid="CN101110308" />
+            <county countyname="洛川" weatherid="CN101110309" />
+            <county countyname="黄陵" weatherid="CN101110310" />
+            <county countyname="黄龙" weatherid="CN101110311" />
+            <county countyname="吴起" weatherid="CN101110312" />
+        </city>
+        <city cityname="榆林" citycode="298">
+            <county countyname="榆林" weatherid="CN101110401" />
+            <county countyname="府谷" weatherid="CN101110402" />
+            <county countyname="神木" weatherid="CN101110403" />
+            <county countyname="佳县" weatherid="CN101110404" />
+            <county countyname="定边" weatherid="CN101110405" />
+            <county countyname="靖边" weatherid="CN101110406" />
+            <county countyname="横山" weatherid="CN101110407" />
+            <county countyname="米脂" weatherid="CN101110408" />
+            <county countyname="子洲" weatherid="CN101110409" />
+            <county countyname="绥德" weatherid="CN101110410" />
+            <county countyname="吴堡" weatherid="CN101110411" />
+            <county countyname="清涧" weatherid="CN101110412" />
+            <county countyname="榆阳" weatherid="CN101110413" />
+        </city>
+        <city cityname="渭南" citycode="299">
+            <county countyname="渭南" weatherid="CN101110501" />
+            <county countyname="华县" weatherid="CN101110502" />
+            <county countyname="潼关" weatherid="CN101110503" />
+            <county countyname="大荔" weatherid="CN101110504" />
+            <county countyname="白水" weatherid="CN101110505" />
+            <county countyname="富平" weatherid="CN101110506" />
+            <county countyname="蒲城" weatherid="CN101110507" />
+            <county countyname="澄城" weatherid="CN101110508" />
+            <county countyname="合阳" weatherid="CN101110509" />
+            <county countyname="韩城" weatherid="CN101110510" />
+            <county countyname="华阴" weatherid="CN101110511" />
+        </city>
+        <city cityname="商洛" citycode="300">
+            <county countyname="商洛" weatherid="CN101110601" />
+            <county countyname="洛南" weatherid="CN101110602" />
+            <county countyname="柞水" weatherid="CN101110603" />
+            <county countyname="商州" weatherid="CN101110604" />
+            <county countyname="镇安" weatherid="CN101110605" />
+            <county countyname="丹凤" weatherid="CN101110606" />
+            <county countyname="商南" weatherid="CN101110607" />
+            <county countyname="山阳" weatherid="CN101110608" />
+        </city>
+        <city cityname="安康" citycode="301">
+            <county countyname="安康" weatherid="CN101110701" />
+            <county countyname="紫阳" weatherid="CN101110702" />
+            <county countyname="石泉" weatherid="CN101110703" />
+            <county countyname="汉阴" weatherid="CN101110704" />
+            <county countyname="旬阳" weatherid="CN101110705" />
+            <county countyname="岚皋" weatherid="CN101110706" />
+            <county countyname="平利" weatherid="CN101110707" />
+            <county countyname="白河" weatherid="CN101110708" />
+            <county countyname="镇坪" weatherid="CN101110709" />
+            <county countyname="宁陕" weatherid="CN101110710" />
+        </city>
+        <city cityname="汉中" citycode="302">
+            <county countyname="汉中" weatherid="CN101110801" />
+            <county countyname="略阳" weatherid="CN101110802" />
+            <county countyname="勉县" weatherid="CN101110803" />
+            <county countyname="留坝" weatherid="CN101110804" />
+            <county countyname="洋县" weatherid="CN101110805" />
+            <county countyname="城固" weatherid="CN101110806" />
+            <county countyname="西乡" weatherid="CN101110807" />
+            <county countyname="佛坪" weatherid="CN101110808" />
+            <county countyname="宁强" weatherid="CN101110809" />
+            <county countyname="南郑" weatherid="CN101110810" />
+            <county countyname="镇巴" weatherid="CN101110811" />
+        </city>
+        <city cityname="宝鸡" citycode="303">
+            <county countyname="宝鸡" weatherid="CN101110901" />
+            <county countyname="千阳" weatherid="CN101110903" />
+            <county countyname="麟游" weatherid="CN101110904" />
+            <county countyname="岐山" weatherid="CN101110905" />
+            <county countyname="凤翔" weatherid="CN101110906" />
+            <county countyname="扶风" weatherid="CN101110907" />
+            <county countyname="眉县" weatherid="CN101110908" />
+            <county countyname="太白" weatherid="CN101110909" />
+            <county countyname="凤县" weatherid="CN101110910" />
+            <county countyname="陇县" weatherid="CN101110911" />
+            <county countyname="陈仓" weatherid="CN101110912" />
+        </city>
+        <city cityname="铜川" citycode="304">
+            <county countyname="铜川" weatherid="CN101111001" />
+            <county countyname="耀县" weatherid="CN101111002" />
+            <county countyname="宜君" weatherid="CN101111003" />
+            <county countyname="耀州" weatherid="CN101111004" />
+        </city>
+        <city cityname="杨凌" citycode="305">
+            <county countyname="杨凌" weatherid="CN101111101" />
+        </city>
+    </province>
+    <province provincename="宁夏" provincecode="31">
+        <city cityname="银川" citycode="306">
+            <county countyname="银川" weatherid="CN101170101" />
+            <county countyname="永宁" weatherid="CN101170102" />
+            <county countyname="灵武" weatherid="CN101170103" />
+            <county countyname="贺兰" weatherid="CN101170104" />
+        </city>
+        <city cityname="石嘴山" citycode="307">
+            <county countyname="石嘴山" weatherid="CN101170201" />
+            <county countyname="惠农" weatherid="CN101170202" />
+            <county countyname="平罗" weatherid="CN101170203" />
+            <county countyname="陶乐" weatherid="CN101170204" />
+        </city>
+        <city cityname="吴忠" citycode="308">
+            <county countyname="吴忠" weatherid="CN101170301" />
+            <county countyname="同心" weatherid="CN101170302" />
+            <county countyname="盐池" weatherid="CN101170303" />
+            <county countyname="青铜峡" weatherid="CN101170306" />
+        </city>
+        <city cityname="固原" citycode="309">
+            <county countyname="固原" weatherid="CN101170401" />
+            <county countyname="西吉" weatherid="CN101170402" />
+            <county countyname="隆德" weatherid="CN101170403" />
+            <county countyname="泾源" weatherid="CN101170404" />
+            <county countyname="彭阳" weatherid="CN101170406" />
+        </city>
+        <city cityname="中卫" citycode="310">
+            <county countyname="中卫" weatherid="CN101170501" />
+            <county countyname="中宁" weatherid="CN101170502" />
+            <county countyname="海原" weatherid="CN101170504" />
+        </city>
+    </province>
+    <province provincename="甘肃" provincecode="32">
+        <city cityname="兰州" citycode="311">
+            <county countyname="兰州" weatherid="CN101160101" />
+            <county countyname="皋兰" weatherid="CN101160102" />
+            <county countyname="永登" weatherid="CN101160103" />
+            <county countyname="榆中" weatherid="CN101160104" />
+        </city>
+        <city cityname="定西" citycode="312">
+            <county countyname="定西" weatherid="CN101160201" />
+            <county countyname="通渭" weatherid="CN101160202" />
+            <county countyname="陇西" weatherid="CN101160203" />
+            <county countyname="渭源" weatherid="CN101160204" />
+            <county countyname="临洮" weatherid="CN101160205" />
+            <county countyname="漳县" weatherid="CN101160206" />
+            <county countyname="岷县" weatherid="CN101160207" />
+            <county countyname="安定" weatherid="CN101160208" />
+        </city>
+        <city cityname="平凉" citycode="313">
+            <county countyname="平凉" weatherid="CN101160301" />
+            <county countyname="泾川" weatherid="CN101160302" />
+            <county countyname="灵台" weatherid="CN101160303" />
+            <county countyname="崇信" weatherid="CN101160304" />
+            <county countyname="华亭" weatherid="CN101160305" />
+            <county countyname="庄浪" weatherid="CN101160306" />
+            <county countyname="静宁" weatherid="CN101160307" />
+            <county countyname="崆峒" weatherid="CN101160308" />
+        </city>
+        <city cityname="庆阳" citycode="314">
+            <county countyname="庆阳" weatherid="CN101160401" />
+            <county countyname="环县" weatherid="CN101160403" />
+            <county countyname="华池" weatherid="CN101160404" />
+            <county countyname="合水" weatherid="CN101160405" />
+            <county countyname="正宁" weatherid="CN101160406" />
+            <county countyname="宁县" weatherid="CN101160407" />
+            <county countyname="镇原" weatherid="CN101160408" />
+            <county countyname="庆城" weatherid="CN101160409" />
+        </city>
+        <city cityname="武威" citycode="315">
+            <county countyname="武威" weatherid="CN101160501" />
+            <county countyname="民勤" weatherid="CN101160502" />
+            <county countyname="古浪" weatherid="CN101160503" />
+            <county countyname="天祝" weatherid="CN101160505" />
+        </city>
+        <city cityname="金昌" citycode="316">
+            <county countyname="金昌" weatherid="CN101160601" />
+            <county countyname="永昌" weatherid="CN101160602" />
+        </city>
+        <city cityname="张掖" citycode="317">
+            <county countyname="张掖" weatherid="CN101160701" />
+            <county countyname="肃南" weatherid="CN101160702" />
+            <county countyname="民乐" weatherid="CN101160703" />
+            <county countyname="临泽" weatherid="CN101160704" />
+            <county countyname="高台" weatherid="CN101160705" />
+            <county countyname="山丹" weatherid="CN101160706" />
+        </city>
+        <city cityname="酒泉" citycode="318">
+            <county countyname="酒泉" weatherid="CN101160801" />
+            <county countyname="金塔" weatherid="CN101160803" />
+            <county countyname="阿克塞" weatherid="CN101160804" />
+            <county countyname="瓜州" weatherid="CN101160805" />
+            <county countyname="肃北" weatherid="CN101160806" />
+            <county countyname="玉门" weatherid="CN101160807" />
+            <county countyname="敦煌" weatherid="CN101160808" />
+        </city>
+        <city cityname="天水" citycode="319">
+            <county countyname="天水" weatherid="CN101160901" />
+            <county countyname="清水" weatherid="CN101160903" />
+            <county countyname="秦安" weatherid="CN101160904" />
+            <county countyname="甘谷" weatherid="CN101160905" />
+            <county countyname="武山" weatherid="CN101160906" />
+            <county countyname="张家川" weatherid="CN101160907" />
+            <county countyname="麦积" weatherid="CN101160908" />
+        </city>
+        <city cityname="武都" citycode="320">
+            <county countyname="武都" weatherid="CN101161001" />
+            <county countyname="成县" weatherid="CN101161002" />
+            <county countyname="文县" weatherid="CN101161003" />
+            <county countyname="宕昌" weatherid="CN101161004" />
+            <county countyname="康县" weatherid="CN101161005" />
+            <county countyname="西和" weatherid="CN101161006" />
+            <county countyname="礼县" weatherid="CN101161007" />
+            <county countyname="徽县" weatherid="CN101161008" />
+            <county countyname="两当" weatherid="CN101161009" />
+        </city>
+        <city cityname="临夏" citycode="321">
+            <county countyname="临夏" weatherid="CN101161101" />
+            <county countyname="康乐" weatherid="CN101161102" />
+            <county countyname="永靖" weatherid="CN101161103" />
+            <county countyname="广河" weatherid="CN101161104" />
+            <county countyname="和政" weatherid="CN101161105" />
+            <county countyname="东乡" weatherid="CN101161106" />
+            <county countyname="积石山" weatherid="CN101161107" />
+        </city>
+        <city cityname="合作" citycode="322">
+            <county countyname="合作" weatherid="CN101161201" />
+            <county countyname="临潭" weatherid="CN101161202" />
+            <county countyname="卓尼" weatherid="CN101161203" />
+            <county countyname="舟曲" weatherid="CN101161204" />
+            <county countyname="迭部" weatherid="CN101161205" />
+            <county countyname="玛曲" weatherid="CN101161206" />
+            <county countyname="碌曲" weatherid="CN101161207" />
+            <county countyname="夏河" weatherid="CN101161208" />
+        </city>
+        <city cityname="白银" citycode="323">
+            <county countyname="白银" weatherid="CN101161301" />
+            <county countyname="靖远" weatherid="CN101161302" />
+            <county countyname="会宁" weatherid="CN101161303" />
+            <county countyname="平川" weatherid="CN101161304" />
+            <county countyname="景泰" weatherid="CN101161305" />
+        </city>
+        <city cityname="嘉峪关" citycode="324">
+            <county countyname="嘉峪关" weatherid="CN101161401" />
+        </city>
+    </province>
+    <province provincename="青海" provincecode="33">
+        <city cityname="西宁" citycode="325">
+            <county countyname="西宁" weatherid="CN101150101" />
+            <county countyname="大通" weatherid="CN101150102" />
+            <county countyname="湟源" weatherid="CN101150103" />
+            <county countyname="湟中" weatherid="CN101150104" />
+        </city>
+        <city cityname="海东" citycode="326">
+            <county countyname="海东" weatherid="CN101150201" />
+            <county countyname="乐都" weatherid="CN101150202" />
+            <county countyname="民和" weatherid="CN101150203" />
+            <county countyname="互助" weatherid="CN101150204" />
+            <county countyname="化隆" weatherid="CN101150205" />
+            <county countyname="循化" weatherid="CN101150206" />
+            <county countyname="冷湖" weatherid="CN101150207" />
+            <county countyname="平安" weatherid="CN101150208" />
+        </city>
+        <city cityname="黄南" citycode="327">
+            <county countyname="黄南" weatherid="CN101150301" />
+            <county countyname="尖扎" weatherid="CN101150302" />
+            <county countyname="泽库" weatherid="CN101150303" />
+            <county countyname="河南" weatherid="CN101150304" />
+            <county countyname="同仁" weatherid="CN101150305" />
+        </city>
+        <city cityname="海南" citycode="328">
+            <county countyname="海南" weatherid="CN101150401" />
+            <county countyname="贵德" weatherid="CN101150404" />
+            <county countyname="兴海" weatherid="CN101150406" />
+            <county countyname="贵南" weatherid="CN101150407" />
+            <county countyname="同德" weatherid="CN101150408" />
+            <county countyname="共和" weatherid="CN101150409" />
+        </city>
+        <city cityname="果洛" citycode="329">
+            <county countyname="果洛" weatherid="CN101150501" />
+            <county countyname="班玛" weatherid="CN101150502" />
+            <county countyname="甘德" weatherid="CN101150503" />
+            <county countyname="达日" weatherid="CN101150504" />
+            <county countyname="久治" weatherid="CN101150505" />
+            <county countyname="玛多" weatherid="CN101150506" />
+            <county countyname="玛沁" weatherid="CN101150508" />
+        </city>
+        <city cityname="玉树" citycode="330">
+            <county countyname="玉树" weatherid="CN101150601" />
+            <county countyname="称多" weatherid="CN101150602" />
+            <county countyname="治多" weatherid="CN101150603" />
+            <county countyname="杂多" weatherid="CN101150604" />
+            <county countyname="囊谦" weatherid="CN101150605" />
+            <county countyname="曲麻莱" weatherid="CN101150606" />
+        </city>
+        <city cityname="海西" citycode="331">
+            <county countyname="海西" weatherid="CN101150701" />
+            <county countyname="天峻" weatherid="CN101150708" />
+            <county countyname="乌兰" weatherid="CN101150709" />
+            <county countyname="茫崖" weatherid="CN101150712" />
+            <county countyname="大柴旦" weatherid="CN101150713" />
+            <county countyname="德令哈" weatherid="CN101150716" />
+        </city>
+        <city cityname="海北" citycode="332">
+            <county countyname="海北" weatherid="CN101150801" />
+            <county countyname="门源" weatherid="CN101150802" />
+            <county countyname="祁连" weatherid="CN101150803" />
+            <county countyname="海晏" weatherid="CN101150804" />
+            <county countyname="刚察" weatherid="CN101150806" />
+        </city>
+        <city cityname="格尔木" citycode="333">
+            <county countyname="格尔木" weatherid="CN101150901" />
+            <county countyname="都兰" weatherid="CN101150902" />
+        </city>
+    </province>
+    <province provincename="新疆" provincecode="34">
+        <city cityname="乌鲁木齐" citycode="334">
+            <county countyname="乌鲁木齐" weatherid="CN101130101" />
+            <county countyname="小渠子" weatherid="CN101130103" />
+            <county countyname="达坂城" weatherid="CN101130105" />
+            <county countyname="乌鲁木齐牧试站" weatherid="CN101130108" />
+            <county countyname="天池" weatherid="CN101130109" />
+            <county countyname="白杨沟" weatherid="CN101130110" />
+        </city>
+        <city cityname="克拉玛依" citycode="335">
+            <county countyname="克拉玛依" weatherid="CN101130201" />
+            <county countyname="乌尔禾" weatherid="CN101130202" />
+            <county countyname="白碱滩" weatherid="CN101130203" />
+        </city>
+        <city cityname="石河子" citycode="336">
+            <county countyname="石河子" weatherid="CN101130301" />
+            <county countyname="炮台" weatherid="CN101130302" />
+            <county countyname="莫索湾" weatherid="CN101130303" />
+        </city>
+        <city cityname="昌吉" citycode="337">
+            <county countyname="昌吉" weatherid="CN101130401" />
+            <county countyname="呼图壁" weatherid="CN101130402" />
+            <county countyname="米泉" weatherid="CN101130403" />
+            <county countyname="阜康" weatherid="CN101130404" />
+            <county countyname="吉木萨尔" weatherid="CN101130405" />
+            <county countyname="奇台" weatherid="CN101130406" />
+            <county countyname="玛纳斯" weatherid="CN101130407" />
+            <county countyname="木垒" weatherid="CN101130408" />
+            <county countyname="蔡家湖" weatherid="CN101130409" />
+        </city>
+        <city cityname="吐鲁番" citycode="338">
+            <county countyname="吐鲁番" weatherid="CN101130501" />
+            <county countyname="托克逊" weatherid="CN101130502" />
+            <county countyname="鄯善" weatherid="CN101130504" />
+        </city>
+        <city cityname="库尔勒" citycode="339">
+            <county countyname="库尔勒" weatherid="CN101130601" />
+            <county countyname="轮台" weatherid="CN101130602" />
+            <county countyname="尉犁" weatherid="CN101130603" />
+            <county countyname="若羌" weatherid="CN101130604" />
+            <county countyname="且末" weatherid="CN101130605" />
+            <county countyname="和静" weatherid="CN101130606" />
+            <county countyname="焉耆" weatherid="CN101130607" />
+            <county countyname="和硕" weatherid="CN101130608" />
+            <county countyname="巴音布鲁克" weatherid="CN101130610" />
+            <county countyname="铁干里克" weatherid="CN101130611" />
+            <county countyname="博湖" weatherid="CN101130612" />
+            <county countyname="塔中" weatherid="CN101130613" />
+            <county countyname="巴仑台" weatherid="CN101130614" />
+        </city>
+        <city cityname="阿拉尔" citycode="340">
+            <county countyname="阿拉尔" weatherid="CN101130701" />
+        </city>
+        <city cityname="阿克苏" citycode="341">
+            <county countyname="阿克苏" weatherid="CN101130801" />
+            <county countyname="乌什" weatherid="CN101130802" />
+            <county countyname="温宿" weatherid="CN101130803" />
+            <county countyname="拜城" weatherid="CN101130804" />
+            <county countyname="新和" weatherid="CN101130805" />
+            <county countyname="沙雅" weatherid="CN101130806" />
+            <county countyname="库车" weatherid="CN101130807" />
+            <county countyname="柯坪" weatherid="CN101130808" />
+            <county countyname="阿瓦提" weatherid="CN101130809" />
+        </city>
+        <city cityname="喀什" citycode="342">
+            <county countyname="喀什" weatherid="CN101130901" />
+            <county countyname="英吉沙" weatherid="CN101130902" />
+            <county countyname="塔什库尔干" weatherid="CN101130903" />
+            <county countyname="麦盖提" weatherid="CN101130904" />
+            <county countyname="莎车" weatherid="CN101130905" />
+            <county countyname="叶城" weatherid="CN101130906" />
+            <county countyname="泽普" weatherid="CN101130907" />
+            <county countyname="巴楚" weatherid="CN101130908" />
+            <county countyname="岳普湖" weatherid="CN101130909" />
+            <county countyname="伽师" weatherid="CN101130910" />
+            <county countyname="疏附" weatherid="CN101130911" />
+            <county countyname="疏勒" weatherid="CN101130912" />
+        </city>
+        <city cityname="伊宁" citycode="343">
+            <county countyname="伊宁" weatherid="CN101131001" />
+            <county countyname="察布查尔" weatherid="CN101131002" />
+            <county countyname="尼勒克" weatherid="CN101131003" />
+            <county countyname="伊宁县" weatherid="CN101131004" />
+            <county countyname="巩留" weatherid="CN101131005" />
+            <county countyname="新源" weatherid="CN101131006" />
+            <county countyname="昭苏" weatherid="CN101131007" />
+            <county countyname="特克斯" weatherid="CN101131008" />
+            <county countyname="霍城" weatherid="CN101131009" />
+            <county countyname="霍尔果斯" weatherid="CN101131010" />
+            <county countyname="奎屯" weatherid="CN101131011" />
+        </city>
+        <city cityname="塔城" citycode="344">
+            <county countyname="塔城" weatherid="CN101131101" />
+            <county countyname="裕民" weatherid="CN101131102" />
+            <county countyname="额敏" weatherid="CN101131103" />
+            <county countyname="和布克赛尔" weatherid="CN101131104" />
+            <county countyname="托里" weatherid="CN101131105" />
+            <county countyname="乌苏" weatherid="CN101131106" />
+            <county countyname="沙湾" weatherid="CN101131107" />
+        </city>
+        <city cityname="哈密" citycode="345">
+            <county countyname="哈密" weatherid="CN101131201" />
+            <county countyname="巴里坤" weatherid="CN101131203" />
+            <county countyname="伊吾" weatherid="CN101131204" />
+        </city>
+        <city cityname="和田" citycode="346">
+            <county countyname="和田" weatherid="CN101131301" />
+            <county countyname="皮山" weatherid="CN101131302" />
+            <county countyname="策勒" weatherid="CN101131303" />
+            <county countyname="墨玉" weatherid="CN101131304" />
+            <county countyname="洛浦" weatherid="CN101131305" />
+            <county countyname="民丰" weatherid="CN101131306" />
+            <county countyname="于田" weatherid="CN101131307" />
+        </city>
+        <city cityname="阿勒泰" citycode="347">
+            <county countyname="阿勒泰" weatherid="CN101131401" />
+            <county countyname="哈巴河" weatherid="CN101131402" />
+            <county countyname="吉木乃" weatherid="CN101131405" />
+            <county countyname="布尔津" weatherid="CN101131406" />
+            <county countyname="福海" weatherid="CN101131407" />
+            <county countyname="富蕴" weatherid="CN101131408" />
+            <county countyname="青河" weatherid="CN101131409" />
+        </city>
+        <city cityname="阿图什" citycode="348">
+            <county countyname="阿图什" weatherid="CN101131501" />
+            <county countyname="乌恰" weatherid="CN101131502" />
+            <county countyname="阿克陶" weatherid="CN101131503" />
+            <county countyname="阿合奇" weatherid="CN101131504" />
+        </city>
+        <city cityname="博乐" citycode="349">
+            <county countyname="博乐" weatherid="CN101131601" />
+            <county countyname="温泉" weatherid="CN101131602" />
+            <county countyname="精河" weatherid="CN101131603" />
+            <county countyname="阿拉山口" weatherid="CN101131606" />
+        </city>
+    </province>
+</provinces>
